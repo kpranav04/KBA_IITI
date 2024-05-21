@@ -18,7 +18,7 @@ const AppWithFilter = () => {
     const location = "";
     const date = "";
     const Index = "";
-    const res = await axios.post("http://localhost:3000/index/filters_spi", {
+    const res = await axios.post("https://kba-iiti-api.vercel.app/index/filters_spi", {
       location: location,
       date: date,
       Index: Index,
@@ -41,7 +41,7 @@ const AppWithFilter = () => {
     const date = document.getElementById("date").value;
     // const Index = document.getElementById("index").value;
     // console.log(location, date, Index);
-    const res = await axios.post("http://localhost:3000/index/filters_spi", {
+    const res = await axios.post("https://kba-iiti-api.vercel.app/index/filters_spi", {
       location: locations,
       date: date,
      
