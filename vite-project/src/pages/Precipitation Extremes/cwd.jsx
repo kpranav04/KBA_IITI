@@ -63,7 +63,7 @@ function CWD_PPT_Extreme() {
     console.log(cred.year);
     console.log(cred.month);
 
-    const response = await axios.post("https://kba-iiti-api.vercel.app/index/cwd_get", {
+    const response = await axios.post("https://kba-iiti-1.onrender.com/index/cwd_get", {
       year: cred.year,
     });
     console.log(response.data);
