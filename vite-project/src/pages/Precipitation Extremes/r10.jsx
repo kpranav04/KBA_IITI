@@ -47,7 +47,7 @@ function R10_PPT_Extreme() {
   };
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const res = await axios.post('http://localhost:3000/index/r10_post', { location: selectedOption.value,  year: cred.year, index: data.index });
+    const res = await axios.post('https://kba-iiti-api.vercel.app/index/r10_post', { location: selectedOption.value,  year: cred.year, index: data.index });
     console.log(res);
     toast.success("Data Added Successfully");
     setTimeout(() => {
@@ -61,7 +61,7 @@ function R10_PPT_Extreme() {
     console.log(cred.year);
     console.log(cred.month);
 
-    const response = await axios.post("http://localhost:3000/index/r10_get", {
+    const response = await axios.post("https://kba-iiti-api.vercel.app/index/r10_get", {
       year: cred.year,
     });
     console.log(response.data);
