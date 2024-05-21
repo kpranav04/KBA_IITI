@@ -33,7 +33,7 @@ const Create = () => {
     dispatch({ type: "LOGIN_START" });
     setIsLoading(true);
     try {
-      const res = await axios.post("http://localhost:3000/auth/login", credentials);
+      const res = await axios.post("https://kba-iiti-api.vercel.app/auth/login", credentials);
     //   toast.success("Login Successfull", {
     //     position: toast.POSITION.TOP_CENTER
     // });
