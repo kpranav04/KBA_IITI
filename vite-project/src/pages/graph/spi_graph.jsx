@@ -28,7 +28,7 @@ function Graph_spi() {
     console.log(cred.year);
     console.log(selectedOption.value);
 
-    const res = await axios.post("http://localhost:3000/index/graph_spi", {
+    const res = await axios.post("https://kba-iiti-api.vercel.app/index/graph_spi", {
       year: cred.year,
       location: selectedOption.value,
     });
