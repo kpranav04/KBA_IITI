@@ -35,7 +35,13 @@ mongoose.connection.on("disconnected", () => {
 //MIDDLEWARES
 app.use(express.json());
 app.use(cookieParser());
-app.use(cors());
+app.use(cors(
+    {
+        origin:["https://kba-iiti.vercel.app//"],
+        methods:["POST","GET"],
+        credentials:true
+    }
+));
 
 app.use((err, req, res, next) => {
     const errorStatus = err.status || 500;
