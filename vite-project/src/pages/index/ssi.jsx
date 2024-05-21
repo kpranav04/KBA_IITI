@@ -42,7 +42,7 @@ function SSI() {
   };
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const res = await axios.post('http://localhost:3000/index/ssi_post', { location: selectedOption.value, month: cred.month, year: cred.year, index: data.index });
+    const res = await axios.post('https://kba-iiti-api.vercel.app/index/ssi_post', { location: selectedOption.value, month: cred.month, year: cred.year, index: data.index });
     console.log(res);
     toast.success("Data Added Successfully");
     setTimeout(() => {
@@ -56,7 +56,7 @@ function SSI() {
     console.log(cred.year);
     console.log(cred.month);
 
-    const response = await axios.post("http://localhost:3000/index/ssi_get", {
+    const response = await axios.post("https://kba-iiti-api.vercel.app/index/ssi_get", {
       month: cred.month,
       year: cred.year,
     });
