@@ -1,0 +1,3768 @@
+[
+ {
+   "id": 1,
+   "KBA": "Achanakmar Wildlife Sanctuary and Maniyari Reservoir",
+   "Latitude": 22.48,
+   "Longitude": 81.8,
+   "index":1.8
+ },
+ {
+   "id": 2,
+   "KBA": "Achankovil Forest Division",
+   "Latitude": 9.15,
+   "Longitude": 77.16,
+   "index":-1.5
+ },
+ {
+   "id": 3,
+   "KBA": "Adichunchunagiri Wildlife Sanctuary",
+   "Latitude": 13.02,
+   "Longitude": 76.74,
+   "index":-2.4
+ },
+ {
+   "id": 4,
+   "KBA": "Agumbe Reserve Forest",
+   "Latitude": 13.56,
+   "Longitude": 75.07,
+   "index":1.6
+ },
+ {
+   "id": 5,
+   "KBA": "Alniya Dam",
+   "Latitude": 24.98,
+   "Longitude": 75.88
+ },
+ {
+   "id": 6,
+   "KBA": "Amangarh Reserve Forest",
+   "Latitude": 29.4,
+   "Longitude": 78.84
+ },
+ {
+   "id": 7,
+   "KBA": "Amarambalam Reserved Forest - Nilambur",
+   "Latitude": 11.35,
+   "Longitude": 76.34
+ },
+ {
+   "id": 8,
+   "KBA": "Amboli-Tilari Reserve Forest",
+   "Latitude": 15.85,
+   "Longitude": 74.07
+ },
+ {
+   "id": 9,
+   "KBA": "Amchang Hills",
+   "Latitude": 26.17,
+   "Longitude": 91.91
+ },
+ {
+   "id": 10,
+   "KBA": "Anamudi Shola National Park",
+   "Latitude": 10.2,
+   "Longitude": 77.2
+ },
+ {
+   "id": 11,
+   "KBA": "Ango or Anko Hills",
+   "Latitude": 25.04,
+   "Longitude": 94.64
+ },
+ {
+   "id": 12,
+   "KBA": "Anshi National Park",
+   "Latitude": 15.01,
+   "Longitude": 74.38
+ },
+ {
+   "id": 13,
+   "KBA": "Arabhithittu Wildlife Sanctuary",
+   "Latitude": 12.31,
+   "Longitude": 76.41
+ },
+ {
+   "id": 14,
+   "KBA": "Aralam Wildlife Sanctuary",
+   "Latitude": 11.94,
+   "Longitude": 75.86
+ },
+ {
+   "id": 15,
+   "KBA": "Asan Barrage",
+   "Latitude": 30.43,
+   "Longitude": 77.68
+ },
+ {
+   "id": 16,
+   "KBA": "Askot Wildlife Sanctuary and Goriganga Basin",
+   "Latitude": 30.17,
+   "Longitude": 80.26
+ },
+ {
+   "id": 17,
+   "KBA": "Attapadi Reserve Forest",
+   "Latitude": 11.1,
+   "Longitude": 76.56
+ },
+ {
+   "id": 18,
+   "KBA": "Austin Strait",
+   "Latitude": 12.89,
+   "Longitude": 92.84
+ },
+ {
+   "id": 19,
+   "KBA": "Badopal Lake",
+   "Latitude": 29.37,
+   "Longitude": 74.09
+ },
+ {
+   "id": 20,
+   "KBA": "Bagdarrah Closed Area",
+   "Latitude": 24.43,
+   "Longitude": 73.85
+ },
+ {
+   "id": 21,
+   "KBA": "Bahour Lake",
+   "Latitude": 11.83,
+   "Longitude": 79.74
+ },
+ {
+   "id": 22,
+   "KBA": "Bakhira Wildlife Sanctuary",
+   "Latitude": 26.91,
+   "Longitude": 83.14
+ },
+ {
+   "id": 23,
+   "KBA": "Balahalli Reserve Forest",
+   "Latitude": 13.48,
+   "Longitude": 75.12
+ },
+ {
+   "id": 24,
+   "KBA": "Balpakram Complex",
+   "Latitude": 25.26,
+   "Longitude": 90.8
+ },
+ {
+   "id": 25,
+   "KBA": "Balur Reserve Forest",
+   "Latitude": 13.05,
+   "Longitude": 75.51
+ },
+ {
+   "id": 26,
+   "KBA": "Bandhavgarh National Park",
+   "Latitude": 23.66,
+   "Longitude": 81.01
+ },
+ {
+   "id": 27,
+   "KBA": "Bandipur National Park",
+   "Latitude": 11.77,
+   "Longitude": 76.49
+ },
+ {
+   "id": 28,
+   "KBA": "Bandli Wildlife Sanctuary",
+   "Latitude": 31.45,
+   "Longitude": 76.91
+ },
+ {
+   "id": 29,
+   "KBA": "Bannerghatta National Park",
+   "Latitude": 12.72,
+   "Longitude": 77.58
+ },
+ {
+   "id": 30,
+   "KBA": "Banni Grassland and Chhari Dhand",
+   "Latitude": 23.62,
+   "Longitude": 69.63
+ },
+ {
+   "id": 31,
+   "KBA": "Barail Range",
+   "Latitude": 25.12,
+   "Longitude": 93.03
+ },
+ {
+   "id": 32,
+   "KBA": "Barail Range forests",
+   "Latitude": 25.14,
+   "Longitude": 93.11
+ },
+ {
+   "id": 33,
+   "KBA": "Barail Wildlife Sanctuary",
+   "Latitude": 25.03,
+   "Longitude": 92.71
+ },
+ {
+   "id": 34,
+   "KBA": "Barak River",
+   "Latitude": 24.73,
+   "Longitude": 93.16
+ },
+ {
+   "id": 35,
+   "KBA": "Barangtang - Rafters Creek",
+   "Latitude": 12.22,
+   "Longitude": 92.81
+ },
+ {
+   "id": 36,
+   "KBA": "Bardha Dam",
+   "Latitude": 25.23,
+   "Longitude": 75.69
+ },
+ {
+   "id": 37,
+   "KBA": "Baregundi Reserve Forest  - Shankaranarayan Reserve Forest",
+   "Latitude": 13.73,
+   "Longitude": 74.94
+ },
+ {
+   "id": 38,
+   "KBA": "Barna Reservoir",
+   "Latitude": 23.08,
+   "Longitude": 78.03
+ },
+ {
+   "id": 39,
+   "KBA": "Barnadi Wildlife Sanctuary",
+   "Latitude": 26.79,
+   "Longitude": 91.73
+ },
+ {
+   "id": 40,
+   "KBA": "Barnawapara Wildlife Sanctuary",
+   "Latitude": 21.38,
+   "Longitude": 82.44
+ },
+ {
+   "id": 41,
+   "KBA": "Barpede Cave",
+   "Latitude": 15.55,
+   "Longitude": 74.32
+ },
+ {
+   "id": 42,
+   "KBA": "Barsey Rhododendron Sanctuary",
+   "Latitude": 27.23,
+   "Longitude": 88.12
+ },
+ {
+   "id": 43,
+   "KBA": "Basai wetlands",
+   "Latitude": 28.47,
+   "Longitude": 76.99
+ },
+ {
+   "id": 44,
+   "KBA": "Bauwwa Beel",
+   "Latitude": 24.64,
+   "Longitude": 92.58
+ },
+ {
+   "id": 45,
+   "KBA": "Behali Reserve Forest",
+   "Latitude": 26.91,
+   "Longitude": 93.3
+ },
+ {
+   "id": 46,
+   "KBA": "Beliyapani Island",
+   "Latitude": 12.35,
+   "Longitude": 71.9
+ },
+ {
+   "id": 47,
+   "KBA": "Berijam (Kodaikanal)",
+   "Latitude": 10.2,
+   "Longitude": 77.39
+ },
+ {
+   "id": 48,
+   "KBA": "Bhadra Wildlife Sanctuary",
+   "Latitude": 13.56,
+   "Longitude": 75.62
+ },
+ {
+   "id": 49,
+   "KBA": "Bhagimalai Reserve Forest - Subramanya Reserve Forest",
+   "Latitude": 12.74,
+   "Longitude": 75.63
+ },
+ {
+   "id": 50,
+   "KBA": "Bhagwan Mahavir Wildlife Sanctuary (including Molem)",
+   "Latitude": 15.36,
+   "Longitude": 74.25
+ },
+ {
+   "id": 51,
+   "KBA": "Bhal area",
+   "Latitude": 22.28,
+   "Longitude": 72.13
+ },
+ {
+   "id": 52,
+   "KBA": "Bhashkarpara",
+   "Latitude": 22.97,
+   "Longitude": 71.94
+ },
+ {
+   "id": 53,
+   "KBA": "Bherjan-Borajan-Podumoni Wildlife Sanctuary",
+   "Latitude": 27.46,
+   "Longitude": 95.35
+ },
+ {
+   "id": 54,
+   "KBA": "Bhimashankar Wildlife Sanctuary",
+   "Latitude": 19.14,
+   "Longitude": 73.56
+ },
+ {
+   "id": 55,
+   "KBA": "Bhimgad Forests",
+   "Latitude": 15.5,
+   "Longitude": 74.31
+ },
+ {
+   "id": 56,
+   "KBA": "Bhindawas Wildlife Sanctuary",
+   "Latitude": 28.53,
+   "Longitude": 76.55
+ },
+ {
+   "id": 57,
+   "KBA": "Bhitarkanika Wildlife Sanctuary and National Park",
+   "Latitude": 20.67,
+   "Longitude": 86.84
+ },
+ {
+   "id": 58,
+   "KBA": "Bhoj wetland",
+   "Latitude": 23.25,
+   "Longitude": 77.33
+ },
+ {
+   "id": 59,
+   "KBA": "Big Tank (Peria Kanmai) and Sakkarakotai Kanmai",
+   "Latitude": 9.37,
+   "Longitude": 78.82
+ },
+ {
+   "id": 60,
+   "KBA": "Biligiri Rangaswamy Temple Wildlife Sanctuary and Hills",
+   "Latitude": 11.91,
+   "Longitude": 77.16
+ },
+ {
+   "id": 61,
+   "KBA": "Binog Sanctuary - Bhadraj - Jharipani",
+   "Latitude": 30.47,
+   "Longitude": 78.06
+ },
+ {
+   "id": 62,
+   "KBA": "Binsar Wildlife Sanctuary",
+   "Latitude": 29.7,
+   "Longitude": 79.75
+ },
+ {
+   "id": 63,
+   "KBA": "Bisale Reserve Forest",
+   "Latitude": 12.73,
+   "Longitude": 75.67
+ },
+ {
+   "id": 64,
+   "KBA": "Blue Mountain (Phawngpui) National Park",
+   "Latitude": 22.64,
+   "Longitude": 93.05
+ },
+ {
+   "id": 65,
+   "KBA": "Bondla Wildlife Sanctuary",
+   "Latitude": 15.43,
+   "Longitude": 74.11
+ },
+ {
+   "id": 66,
+   "KBA": "Bordoibam-Bilmukh Bird Sanctuary",
+   "Latitude": 27.34,
+   "Longitude": 94.33
+ },
+ {
+   "id": 67,
+   "KBA": "Bordoloni - Sampora",
+   "Latitude": 27.36,
+   "Longitude": 94.39
+ },
+ {
+   "id": 68,
+   "KBA": "Bori Wildlife Sanctuary",
+   "Latitude": 22.49,
+   "Longitude": 78.24
+ },
+ {
+   "id": 69,
+   "KBA": "Botha Beel",
+   "Latitude": 26.35,
+   "Longitude": 91.89
+ },
+ {
+   "id": 70,
+   "KBA": "Brahmagiri Wildlife Sanctuary",
+   "Latitude": 12.02,
+   "Longitude": 75.87
+ },
+ {
+   "id": 71,
+   "KBA": "Bunning Wildlife Sanctuary",
+   "Latitude": 25.25,
+   "Longitude": 93.68
+ },
+ {
+   "id": 72,
+   "KBA": "Burnt Island (Bandra) Vengurla Rocks",
+   "Latitude": 15.91,
+   "Longitude": 73.46
+ },
+ {
+   "id": 73,
+   "KBA": "Buxa Tiger Reserve (National Park)",
+   "Latitude": 26.55,
+   "Longitude": 89.85
+ },
+ {
+   "id": 74,
+   "KBA": "Cairn Hill Reserve Forest (Nilgiri)",
+   "Latitude": 11.39,
+   "Longitude": 76.68
+ },
+ {
+   "id": 75,
+   "KBA": "Camel’s Hump Mountains",
+   "Latitude": 11.4,
+   "Longitude": 76.12
+ },
+ {
+   "id": 76,
+   "KBA": "Car Nicobar",
+   "Latitude": 9.18,
+   "Longitude": 92.77
+ },
+ {
+   "id": 77,
+   "KBA": "Carambolim Wetlands",
+   "Latitude": 15.49,
+   "Longitude": 73.93
+ },
+ {
+   "id": 78,
+   "KBA": "Cardamom Hills Reserve Forest",
+   "Latitude": 9.9,
+   "Longitude": 77.16
+ },
+ {
+   "id": 79,
+   "KBA": "Cauvery Wildlife Sanctuary",
+   "Latitude": 12.18,
+   "Longitude": 77.53
+ },
+ {
+   "id": 80,
+   "KBA": "Cave near Hanumanahalli",
+   "Latitude": 13.15,
+   "Longitude": 78.28
+ },
+ {
+   "id": 81,
+   "KBA": "Chaglagaum - Denning",
+   "Latitude": 28.34,
+   "Longitude": 96.56
+ },
+ {
+   "id": 82,
+   "KBA": "Chaglagaum - Denning - Walong",
+   "Latitude": 28.27,
+   "Longitude": 96.72
+ },
+ {
+   "id": 83,
+   "KBA": "Chail Wildlife Sanctuary",
+   "Latitude": 30.94,
+   "Longitude": 77.2
+ },
+ {
+   "id": 84,
+   "KBA": "Chainpur and Hanspuri",
+   "Latitude": 12.68,
+   "Longitude": 92.75
+ },
+ {
+   "id": 85,
+   "KBA": "Chakra Reserve Forest - Hosanagara Reserve Forest",
+   "Latitude": 13.88,
+   "Longitude": 74.89
+ },
+ {
+   "id": 86,
+   "KBA": "Chakrashila Complex",
+   "Latitude": 26.32,
+   "Longitude": 90.34
+ },
+ {
+   "id": 87,
+   "KBA": "Chamba Valley",
+   "Latitude": 32.41,
+   "Longitude": 76.32
+ },
+ {
+   "id": 88,
+   "KBA": "Chandaka - Dampara Wildlife Sanctuary",
+   "Latitude": 20.34,
+   "Longitude": 85.68
+ },
+ {
+   "id": 89,
+   "KBA": "Chandoli National Park",
+   "Latitude": 17.19,
+   "Longitude": 73.79
+ },
+ {
+   "id": 90,
+   "KBA": "Chandubi Lake and adjoining areas",
+   "Latitude": 25.87,
+   "Longitude": 91.42
+ },
+ {
+   "id": 91,
+   "KBA": "Chapramari",
+   "Latitude": 26.89,
+   "Longitude": 88.84
+ },
+ {
+   "id": 92,
+   "KBA": "Charakla Saltworks",
+   "Latitude": 22.2,
+   "Longitude": 69.16
+ },
+ {
+   "id": 93,
+   "KBA": "Charmadi Reserve Forest",
+   "Latitude": 13.07,
+   "Longitude": 75.43
+ },
+ {
+   "id": 94,
+   "KBA": "Chaurs of North Bihar",
+   "Latitude": 25.64,
+   "Longitude": 86.13
+ },
+ {
+   "id": 95,
+   "KBA": "Chayang Tajo - Khenewa - Lada",
+   "Latitude": 27.97,
+   "Longitude": 93.05
+ },
+ {
+   "id": 96,
+   "KBA": "Cherapunjee: cliffs, gorges and sacred groves",
+   "Latitude": 25.25,
+   "Longitude": 91.7
+ },
+ {
+   "id": 97,
+   "KBA": "Chimmony Wildlife Sanctuary",
+   "Latitude": 10.44,
+   "Longitude": 76.49
+ },
+ {
+   "id": 98,
+   "KBA": "Chinnar Wildlife Sanctuary",
+   "Latitude": 10.31,
+   "Longitude": 77.2
+ },
+ {
+   "id": 99,
+   "KBA": "Chirang Reserve Forest",
+   "Latitude": 26.75,
+   "Longitude": 90.33
+ },
+ {
+   "id": 100,
+   "KBA": "Chitragudi and Kanjirankulam Bird Sanctuary",
+   "Latitude": 9.35,
+   "Longitude": 78.44
+ },
+ {
+   "id": 101,
+   "KBA": "Churdhar Wildlife Sanctuary",
+   "Latitude": 30.84,
+   "Longitude": 77.45
+ },
+ {
+   "id": 102,
+   "KBA": "Chushul marshes",
+   "Latitude": 33.61,
+   "Longitude": 78.65
+ },
+ {
+   "id": 103,
+   "KBA": "Conoor",
+   "Latitude": 11.35,
+   "Longitude": 76.82
+ },
+ {
+   "id": 104,
+   "KBA": "Corbett Tiger Reserve",
+   "Latitude": 29.52,
+   "Longitude": 78.95
+ },
+ {
+   "id": 105,
+   "KBA": "Coringa Wildlife Sanctuary and Godavari estuary",
+   "Latitude": 16.86,
+   "Longitude": 82.32
+ },
+ {
+   "id": 106,
+   "KBA": "Cotigao Wildlife Sanctuary",
+   "Latitude": 14.98,
+   "Longitude": 74.2
+ },
+ {
+   "id": 107,
+   "KBA": "Dachigam National Park",
+   "Latitude": 34.13,
+   "Longitude": 75.02
+ },
+ {
+   "id": 108,
+   "KBA": "Dadara-Pasariya-Singimari",
+   "Latitude": 26.21,
+   "Longitude": 91.64
+ },
+ {
+   "id": 109,
+   "KBA": "Dailong Rongku Forest",
+   "Latitude": 25.02,
+   "Longitude": 93.52
+ },
+ {
+   "id": 110,
+   "KBA": "Dalma Wildlife Sanctuary",
+   "Latitude": 22.9,
+   "Longitude": 86.24
+ },
+ {
+   "id": 111,
+   "KBA": "Dampa Tiger Reserve",
+   "Latitude": 23.53,
+   "Longitude": 92.41
+ },
+ {
+   "id": 112,
+   "KBA": "Danapur cantonment area",
+   "Latitude": 25.62,
+   "Longitude": 85.04
+ },
+ {
+   "id": 113,
+   "KBA": "Dandeli Wildlife Sanctuary",
+   "Latitude": 15.15,
+   "Longitude": 74.48
+ },
+ {
+   "id": 114,
+   "KBA": "Daranghati Wildlife Sanctuary",
+   "Latitude": 31.41,
+   "Longitude": 77.82
+ },
+ {
+   "id": 115,
+   "KBA": "Deepor Beel Bird Sanctuary",
+   "Latitude": 26.12,
+   "Longitude": 91.65
+ },
+ {
+   "id": 116,
+   "KBA": "Dehra Gali (DKG) forest",
+   "Latitude": 33.74,
+   "Longitude": 74.1
+ },
+ {
+   "id": 117,
+   "KBA": "Deobali Jalah",
+   "Latitude": 26.3,
+   "Longitude": 92.62
+ },
+ {
+   "id": 118,
+   "KBA": "Deobali Jalah, Sialmari, Haibargaon, Khutikatia (Nagaon)",
+   "Latitude": 26.3,
+   "Longitude": 92.62
+ },
+ {
+   "id": 119,
+   "KBA": "D'Ering Memorial Wildlife Sanctuary",
+   "Latitude": 27.97,
+   "Longitude": 95.42
+ },
+ {
+   "id": 120,
+   "KBA": "Desert National Park",
+   "Latitude": 26.31,
+   "Longitude": 70.56
+ },
+ {
+   "id": 121,
+   "KBA": "Dhanauri wetland",
+   "Latitude": 28.34,
+   "Longitude": 77.62
+ },
+ {
+   "id": 122,
+   "KBA": "Dhansiri Reserve Forest",
+   "Latitude": 25.72,
+   "Longitude": 93.41
+ },
+ {
+   "id": 123,
+   "KBA": "Dhauludhar Wildlife Sanctuary and McLeod Gunj",
+   "Latitude": 32.24,
+   "Longitude": 76.89
+ },
+ {
+   "id": 124,
+   "KBA": "Dibang Reserve Forest and adjacent areas",
+   "Latitude": 28.13,
+   "Longitude": 95.66
+ },
+ {
+   "id": 125,
+   "KBA": "Dibang Wildlife Sanctuary",
+   "Latitude": 29.04,
+   "Longitude": 96.03
+ },
+ {
+   "id": 126,
+   "KBA": "Dibru - Saikhowa Complex",
+   "Latitude": 27.73,
+   "Longitude": 95.36
+ },
+ {
+   "id": 127,
+   "KBA": "Dichu Reserve Forest",
+   "Latitude": 28.07,
+   "Longitude": 97.17
+ },
+ {
+   "id": 128,
+   "KBA": "Dighal wetland",
+   "Latitude": 28.76,
+   "Longitude": 76.63
+ },
+ {
+   "id": 129,
+   "KBA": "Dihaila Jheel and other wetlands",
+   "Latitude": 25.76,
+   "Longitude": 77.9
+ },
+ {
+   "id": 130,
+   "KBA": "Diyatra Closed Area",
+   "Latitude": 27.71,
+   "Longitude": 72.76
+ },
+ {
+   "id": 131,
+   "KBA": "Dombang Valley - Lachung - Lema - Tsungthang",
+   "Latitude": 27.67,
+   "Longitude": 88.75
+ },
+ {
+   "id": 132,
+   "KBA": "Doyang Reservoir and Pangti Forest",
+   "Latitude": 26.23,
+   "Longitude": 94.3
+ },
+ {
+   "id": 133,
+   "KBA": "Dudhwa National Park",
+   "Latitude": 28.5,
+   "Longitude": 80.71
+ },
+ {
+   "id": 134,
+   "KBA": "Dum Duma, Dangori and Kumsong Reserve Forests",
+   "Latitude": 27.65,
+   "Longitude": 95.7
+ },
+ {
+   "id": 135,
+   "KBA": "Dzuku Valley",
+   "Latitude": 25.54,
+   "Longitude": 94.03
+ },
+ {
+   "id": 136,
+   "KBA": "Eaglenest and Sessa Sanctuaries",
+   "Latitude": 27.06,
+   "Longitude": 92.43
+ },
+ {
+   "id": 137,
+   "KBA": "Eaglenest Wildlife Sanctuary",
+   "Latitude": 27.05,
+   "Longitude": 92.41
+ },
+ {
+   "id": 138,
+   "KBA": "East and North Karbi Anglong Wildlife Sanctuaries",
+   "Latitude": 26.45,
+   "Longitude": 93.32
+ },
+ {
+   "id": 139,
+   "KBA": "Eravikulam National Park",
+   "Latitude": 10.22,
+   "Longitude": 77.08
+ },
+ {
+   "id": 140,
+   "KBA": "Erode Forest Division",
+   "Latitude": 11.78,
+   "Longitude": 77.55
+ },
+ {
+   "id": 141,
+   "KBA": "Fakim Wildlife Sanctuary and Saramati area",
+   "Latitude": 25.91,
+   "Longitude": 95
+ },
+ {
+   "id": 142,
+   "KBA": "Fambong Lho Wildlife Sanctuary - Himalayan Zoological Park - Ratey Chu Reserve Forest",
+   "Latitude": 27.37,
+   "Longitude": 88.6
+ },
+ {
+   "id": 143,
+   "KBA": "Farakka Barrage and adjoining area",
+   "Latitude": 24.84,
+   "Longitude": 87.94
+ },
+ {
+   "id": 144,
+   "KBA": "Flamingo City",
+   "Latitude": 24.06,
+   "Longitude": 69.96
+ },
+ {
+   "id": 145,
+   "KBA": "Gamgul Siahbehi Wildlife Sanctuary",
+   "Latitude": 32.86,
+   "Longitude": 75.9
+ },
+ {
+   "id": 146,
+   "KBA": "Gandhi Sagar Wildlife Sanctuary and reservoir",
+   "Latitude": 24.59,
+   "Longitude": 75.56
+ },
+ {
+   "id": 147,
+   "KBA": "Gangapur Dam and grasslands",
+   "Latitude": 20.03,
+   "Longitude": 73.65
+ },
+ {
+   "id": 148,
+   "KBA": "Gangotri National Park",
+   "Latitude": 31.08,
+   "Longitude": 79.11
+ },
+ {
+   "id": 149,
+   "KBA": "Garampani, Nambor and Doigrung",
+   "Latitude": 26.4,
+   "Longitude": 93.86
+ },
+ {
+   "id": 150,
+   "KBA": "Gawana Arain, Mangaliyawas, Ramsar, Goyal, Ratakot, Badar",
+   "Latitude": 26.41,
+   "Longitude": 74.57
+ },
+ {
+   "id": 151,
+   "KBA": "Gharana Wetland Reserve",
+   "Latitude": 32.54,
+   "Longitude": 74.68
+ },
+ {
+   "id": 152,
+   "KBA": "Ghatigaon Bustard Sanctuary",
+   "Latitude": 26.16,
+   "Longitude": 77.91
+ },
+ {
+   "id": 153,
+   "KBA": "Gibbon (Hollongapar) Sanctuary",
+   "Latitude": 26.67,
+   "Longitude": 94.36
+ },
+ {
+   "id": 154,
+   "KBA": "Gir National Park and Wildlife Sanctuary",
+   "Latitude": 21.11,
+   "Longitude": 70.85
+ },
+ {
+   "id": 155,
+   "KBA": "Gobind Sagar and Naina Devi Wildlife Sanctuaries",
+   "Latitude": 31.34,
+   "Longitude": 76.52
+ },
+ {
+   "id": 156,
+   "KBA": "Gogabil Pakshi Vihar, Baghar Beel and Baldia Chaur",
+   "Latitude": 25.36,
+   "Longitude": 87.7
+ },
+ {
+   "id": 157,
+   "KBA": "Gomarda Wildlife Sanctuary",
+   "Latitude": 21.49,
+   "Longitude": 83.15
+ },
+ {
+   "id": 158,
+   "KBA": "Gorumara National Park",
+   "Latitude": 26.77,
+   "Longitude": 88.82
+ },
+ {
+   "id": 159,
+   "KBA": "Gosabara (Mokarsar) wetland complex",
+   "Latitude": 21.58,
+   "Longitude": 69.75
+ },
+ {
+   "id": 160,
+   "KBA": "Governor's Shola (Nilgiri)",
+   "Latitude": 11.39,
+   "Longitude": 76.63
+ },
+ {
+   "id": 161,
+   "KBA": "Govind National Park and Wildlife Sanctuary, Sandra, Kotinad and Singtur ranges (Tons forest division)",
+   "Latitude": 31.11,
+   "Longitude": 78.31
+ },
+ {
+   "id": 162,
+   "KBA": "Grass Hills",
+   "Latitude": 10.47,
+   "Longitude": 76.85
+ },
+ {
+   "id": 163,
+   "KBA": "Great Himalayan National Park",
+   "Latitude": 31.78,
+   "Longitude": 77.63
+ },
+ {
+   "id": 164,
+   "KBA": "Great Nicobar, Little Nicobar",
+   "Latitude": 7.07,
+   "Longitude": 93.79
+ },
+ {
+   "id": 165,
+   "KBA": "Gudavi Bird Sanctuary",
+   "Latitude": 14.43,
+   "Longitude": 75.01
+ },
+ {
+   "id": 166,
+   "KBA": "Gulf of Mannar Marine National Park",
+   "Latitude": 9.23,
+   "Longitude": 79.33
+ },
+ {
+   "id": 167,
+   "KBA": "Gulmarg Wildlife Sanctuary",
+   "Latitude": 34,
+   "Longitude": 74.38
+ },
+ {
+   "id": 168,
+   "KBA": "Gumti Wildlife Sanctuary",
+   "Latitude": 23.62,
+   "Longitude": 91.8
+ },
+ {
+   "id": 169,
+   "KBA": "Gundia Forests",
+   "Latitude": 12.78,
+   "Longitude": 75.58
+ },
+ {
+   "id": 170,
+   "KBA": "Guru Ghasidas Tiger Reserve",
+   "Latitude": 23.76,
+   "Longitude": 82.03
+ },
+ {
+   "id": 171,
+   "KBA": "Habang",
+   "Latitude": 25.71,
+   "Longitude": 92.21
+ },
+ {
+   "id": 172,
+   "KBA": "Halali Reservoir",
+   "Latitude": 23.49,
+   "Longitude": 77.5
+ },
+ {
+   "id": 173,
+   "KBA": "Haliyal Reserve Forest",
+   "Latitude": 15.31,
+   "Longitude": 74.72
+ },
+ {
+   "id": 174,
+   "KBA": "Hampi and Daroji Bear Sanctuary",
+   "Latitude": 15.33,
+   "Longitude": 76.47
+ },
+ {
+   "id": 175,
+   "KBA": "Hanle Plains (Hanle River marshes)",
+   "Latitude": 32.77,
+   "Longitude": 78.95
+ },
+ {
+   "id": 176,
+   "KBA": "Harike Lake Bird Sanctuary",
+   "Latitude": 31.16,
+   "Longitude": 75.01
+ },
+ {
+   "id": 177,
+   "KBA": "Harishchandragad-Kalsubai Wildlife Sanctuary",
+   "Latitude": 19.31,
+   "Longitude": 73.46
+ },
+ {
+   "id": 178,
+   "KBA": "Hastinapur Wildlife Sanctuary",
+   "Latitude": 29.18,
+   "Longitude": 78.1
+ },
+ {
+   "id": 179,
+   "KBA": "Hatnur Dam",
+   "Latitude": 21.09,
+   "Longitude": 76.03
+ },
+ {
+   "id": 180,
+   "KBA": "Hazaribagh Wildlife Sanctuary",
+   "Latitude": 24.12,
+   "Longitude": 85.34
+ },
+ {
+   "id": 181,
+   "KBA": "Heerakund Reservoir and Debrigarh Wildlife Sanctuary",
+   "Latitude": 21.62,
+   "Longitude": 83.76
+ },
+ {
+   "id": 182,
+   "KBA": "Hemis National Park",
+   "Latitude": 33.66,
+   "Longitude": 77.36
+ },
+ {
+   "id": 183,
+   "KBA": "Hesaraghatta Lake",
+   "Latitude": 13.16,
+   "Longitude": 77.49
+ },
+ {
+   "id": 184,
+   "KBA": "High Wavy Mountains",
+   "Latitude": 9.63,
+   "Longitude": 77.38
+ },
+ {
+   "id": 185,
+   "KBA": "Hirapora Wildlife Sanctuary",
+   "Latitude": 33.6,
+   "Longitude": 74.62
+ },
+ {
+   "id": 186,
+   "KBA": "Hokarsar",
+   "Latitude": 34.1,
+   "Longitude": 74.7
+ },
+ {
+   "id": 187,
+   "KBA": "Horsley Hills",
+   "Latitude": 13.71,
+   "Longitude": 78.43
+ },
+ {
+   "id": 188,
+   "KBA": "Hoskote Kere",
+   "Latitude": 13.09,
+   "Longitude": 77.77
+ },
+ {
+   "id": 189,
+   "KBA": "Hosur Forest Division",
+   "Latitude": 12.32,
+   "Longitude": 77.7
+ },
+ {
+   "id": 190,
+   "KBA": "Hulikal SF - Hosanagara Reserve Forest",
+   "Latitude": 13.72,
+   "Longitude": 75.01
+ },
+ {
+   "id": 191,
+   "KBA": "Idukki Wildlife Sanctuary",
+   "Latitude": 9.78,
+   "Longitude": 76.98
+ },
+ {
+   "id": 192,
+   "KBA": "Inderkilla National Park",
+   "Latitude": 32.17,
+   "Longitude": 77.39
+ },
+ {
+   "id": 193,
+   "KBA": "Indira Gandhi Wildlife Sanctuary and National Park",
+   "Latitude": 10.38,
+   "Longitude": 77.08
+ },
+ {
+   "id": 194,
+   "KBA": "Indravati National Park and Tiger Reserve",
+   "Latitude": 19.14,
+   "Longitude": 80.51
+ },
+ {
+   "id": 195,
+   "KBA": "Innerline (East) and Barak Reserve Forests",
+   "Latitude": 24.56,
+   "Longitude": 92.92
+ },
+ {
+   "id": 196,
+   "KBA": "Innerline (West) and Katakhal Reserve Forests",
+   "Latitude": 24.4,
+   "Longitude": 92.6
+ },
+ {
+   "id": 197,
+   "KBA": "Innerline, Katakal and Barak Reserve Forests",
+   "Latitude": 24.48,
+   "Longitude": 92.78
+ },
+ {
+   "id": 198,
+   "KBA": "INS - Shivaji and adjoining areas, Lonavla",
+   "Latitude": 18.67,
+   "Longitude": 73.35
+ },
+ {
+   "id": 199,
+   "KBA": "Intaki National Park",
+   "Latitude": 25.58,
+   "Longitude": 93.46
+ },
+ {
+   "id": 200,
+   "KBA": "Interview Island Wildlife Sanctuary",
+   "Latitude": 12.9,
+   "Longitude": 92.69
+ },
+ {
+   "id": 201,
+   "KBA": "Itanagar Wildlife Sanctuary",
+   "Latitude": 27.17,
+   "Longitude": 93.61
+ },
+ {
+   "id": 202,
+   "KBA": "Jaikwadi Wildlife Sanctuary",
+   "Latitude": 19.53,
+   "Longitude": 75.25
+ },
+ {
+   "id": 203,
+   "KBA": "Jaisamand Lake and Wildlife Sanctuary",
+   "Latitude": 24.27,
+   "Longitude": 73.91
+ },
+ {
+   "id": 204,
+   "KBA": "Jaldapara Wildlife Sanctuary",
+   "Latitude": 26.67,
+   "Longitude": 89.32
+ },
+ {
+   "id": 205,
+   "KBA": "Jamjing and Sengajan",
+   "Latitude": 27.66,
+   "Longitude": 94.98
+ },
+ {
+   "id": 206,
+   "KBA": "Jarawa Reserve (Middle Andaman and South Andaman)",
+   "Latitude": 12.52,
+   "Longitude": 92.75
+ },
+ {
+   "id": 207,
+   "KBA": "Jatinga",
+   "Latitude": 25.13,
+   "Longitude": 93.02
+ },
+ {
+   "id": 208,
+   "KBA": "Jawahar Sagar Sanctuary",
+   "Latitude": 25,
+   "Longitude": 75.65
+ },
+ {
+   "id": 209,
+   "KBA": "Jawaharlal Nehru Bustard Sanctuary",
+   "Latitude": 18.18,
+   "Longitude": 75.31
+ },
+ {
+   "id": 210,
+   "KBA": "Jawai Dam Leopard Conservation Reserve",
+   "Latitude": 25.07,
+   "Longitude": 73.17
+ },
+ {
+   "id": 211,
+   "KBA": "Jehanabad Administrative Area",
+   "Latitude": 25.2,
+   "Longitude": 84.99
+ },
+ {
+   "id": 212,
+   "KBA": "Jengdia Beel and Satgaon",
+   "Latitude": 26.27,
+   "Longitude": 91.77
+ },
+ {
+   "id": 213,
+   "KBA": "Jhanjimukh - Kokilamukh",
+   "Latitude": 26.88,
+   "Longitude": 94.34
+ },
+ {
+   "id": 214,
+   "KBA": "Jhilmil Jheel Conservation Reserve",
+   "Latitude": 29.78,
+   "Longitude": 78.24
+ },
+ {
+   "id": 215,
+   "KBA": "Jiri - Makru Wildlife Sanctuary",
+   "Latitude": 24.83,
+   "Longitude": 93.26
+ },
+ {
+   "id": 216,
+   "KBA": "Jogimatti Reserve Forest",
+   "Latitude": 14.17,
+   "Longitude": 76.39
+ },
+ {
+   "id": 217,
+   "KBA": "Jor Beer",
+   "Latitude": 27.97,
+   "Longitude": 73.38
+ },
+ {
+   "id": 218,
+   "KBA": "Kabbinale Reserve Forest",
+   "Latitude": 12.91,
+   "Longitude": 75.6
+ },
+ {
+   "id": 219,
+   "KBA": "Kachhudah Lake and Mahananda River Course",
+   "Latitude": 26.38,
+   "Longitude": 88.12
+ },
+ {
+   "id": 220,
+   "KBA": "Kadakachang (Katakatchang)",
+   "Latitude": 11.72,
+   "Longitude": 92.73
+ },
+ {
+   "id": 221,
+   "KBA": "Kagneri Reserve Forest",
+   "Latitude": 12.81,
+   "Longitude": 75.64
+ },
+ {
+   "id": 222,
+   "KBA": "Kailam Wildlife Sanctuary",
+   "Latitude": 24.29,
+   "Longitude": 93.42
+ },
+ {
+   "id": 223,
+   "KBA": "Kais Wildlife Sanctuary",
+   "Latitude": 32.02,
+   "Longitude": 77.18
+ },
+ {
+   "id": 224,
+   "KBA": "Kaj Lake (Pipalava Bandharo)",
+   "Latitude": 20.78,
+   "Longitude": 70.83
+ },
+ {
+   "id": 225,
+   "KBA": "Kajra Dhar and Raniganj Protected Forest",
+   "Latitude": 26.11,
+   "Longitude": 87.25
+ },
+ {
+   "id": 226,
+   "KBA": "Kalakad-Mundanthurai Tiger Reserve",
+   "Latitude": 8.64,
+   "Longitude": 77.36
+ },
+ {
+   "id": 227,
+   "KBA": "Kalatop Khajjiar Wildlife Sanctuary",
+   "Latitude": 32.54,
+   "Longitude": 76.05
+ },
+ {
+   "id": 228,
+   "KBA": "Kalesar Wildlife Sanctuary",
+   "Latitude": 30.37,
+   "Longitude": 77.52
+ },
+ {
+   "id": 229,
+   "KBA": "Kaliveli Tank and Yeduyanthittu estuary",
+   "Latitude": 12.11,
+   "Longitude": 79.86
+ },
+ {
+   "id": 230,
+   "KBA": "Kallar forests - Ooty",
+   "Latitude": 11.34,
+   "Longitude": 76.86
+ },
+ {
+   "id": 231,
+   "KBA": "Kalpetta (forest-coffee matrix)",
+   "Latitude": 11.64,
+   "Longitude": 76.2
+ },
+ {
+   "id": 232,
+   "KBA": "Kamlang Wildlife Sanctuary and Reserve Forest",
+   "Latitude": 27.76,
+   "Longitude": 96.56
+ },
+ {
+   "id": 233,
+   "KBA": "Kanawar Wildlife Sanctuary",
+   "Latitude": 31.95,
+   "Longitude": 77.34
+ },
+ {
+   "id": 234,
+   "KBA": "Kanchankumari Reserve Forest",
+   "Latitude": 12.84,
+   "Longitude": 75.7
+ },
+ {
+   "id": 235,
+   "KBA": "Kane Wildlife Sanctuary",
+   "Latitude": 27.65,
+   "Longitude": 94.64
+ },
+ {
+   "id": 236,
+   "KBA": "Kanha National Park",
+   "Latitude": 22.23,
+   "Longitude": 80.75
+ },
+ {
+   "id": 237,
+   "KBA": "Kanjli Lake",
+   "Latitude": 31.52,
+   "Longitude": 75.32
+ },
+ {
+   "id": 238,
+   "KBA": "Karaivetti Wildlife Sanctuary",
+   "Latitude": 10.99,
+   "Longitude": 79.19
+ },
+ {
+   "id": 239,
+   "KBA": "Karanji Tank",
+   "Latitude": 12.3,
+   "Longitude": 76.67
+ },
+ {
+   "id": 240,
+   "KBA": "Karnala Bird Sanctuary",
+   "Latitude": 18.88,
+   "Longitude": 73.11
+ },
+ {
+   "id": 241,
+   "KBA": "Katerniaghat Wildlife Sanctuary and Girijapur Barrage",
+   "Latitude": 28.2,
+   "Longitude": 81.21
+ },
+ {
+   "id": 242,
+   "KBA": "Kattampally",
+   "Latitude": 12,
+   "Longitude": 75.31
+ },
+ {
+   "id": 243,
+   "KBA": "Kaundinya Wildlife Sanctuary",
+   "Latitude": 12.96,
+   "Longitude": 78.6
+ },
+ {
+   "id": 244,
+   "KBA": "Kawar (Kabar) Lake Wildlife Sanctuary",
+   "Latitude": 25.62,
+   "Longitude": 86.14
+ },
+ {
+   "id": 245,
+   "KBA": "Kaziranga National Park",
+   "Latitude": 26.66,
+   "Longitude": 93.38
+ },
+ {
+   "id": 246,
+   "KBA": "Kedarnath Musk Deer Sanctuary and surrounding Reserve Forests",
+   "Latitude": 30.58,
+   "Longitude": 79.19
+ },
+ {
+   "id": 247,
+   "KBA": "Keibul Lamjao National Park",
+   "Latitude": 24.56,
+   "Longitude": 93.86
+ },
+ {
+   "id": 248,
+   "KBA": "Kemmangundi and Bababudan Hills",
+   "Latitude": 13.46,
+   "Longitude": 75.75
+ },
+ {
+   "id": 249,
+   "KBA": "Kemphole Reserve Forest",
+   "Latitude": 12.85,
+   "Longitude": 75.66
+ },
+ {
+   "id": 250,
+   "KBA": "Keoladeo National Park and Ajan Bande",
+   "Latitude": 26.24,
+   "Longitude": 76.94
+ },
+ {
+   "id": 251,
+   "KBA": "Kerti Reserve Forest",
+   "Latitude": 12.12,
+   "Longitude": 75.72
+ },
+ {
+   "id": 252,
+   "KBA": "Keshopur Miani (or Chhamb) Community Reserve",
+   "Latitude": 32.1,
+   "Longitude": 75.4
+ },
+ {
+   "id": 253,
+   "KBA": "Khangchendzonga National Park and Biosphere Reserve",
+   "Latitude": 27.62,
+   "Longitude": 88.32
+ },
+ {
+   "id": 254,
+   "KBA": "Kharda Dam",
+   "Latitude": 25.84,
+   "Longitude": 73.25
+ },
+ {
+   "id": 255,
+   "KBA": "Khichan",
+   "Latitude": 27.08,
+   "Longitude": 72.42
+ },
+ {
+   "id": 256,
+   "KBA": "Khijadiya Lake and Bird Sanctuary",
+   "Latitude": 22.63,
+   "Longitude": 70.26
+ },
+ {
+   "id": 257,
+   "KBA": "Khirganga National Park",
+   "Latitude": 32.03,
+   "Longitude": 77.68
+ },
+ {
+   "id": 258,
+   "KBA": "Khonoma Nature Conservation and Tragopan Sanctuary",
+   "Latitude": 25.59,
+   "Longitude": 93.99
+ },
+ {
+   "id": 259,
+   "KBA": "Kibber Wildlife Sanctuary",
+   "Latitude": 32.45,
+   "Longitude": 78.22
+ },
+ {
+   "id": 260,
+   "KBA": "Kidu Reserve Forest  -  Subramanya Reserve Forest",
+   "Latitude": 12.71,
+   "Longitude": 75.6
+ },
+ {
+   "id": 261,
+   "KBA": "Kilarmale Reserve Forest - Subramanya Reserve Forest",
+   "Latitude": 12.55,
+   "Longitude": 75.58
+ },
+ {
+   "id": 262,
+   "KBA": "Killandur Reserve Forest - Hosanagara Reserve Forest",
+   "Latitude": 13.81,
+   "Longitude": 74.95
+ },
+ {
+   "id": 263,
+   "KBA": "Kiribag Reserve Forest -  Subramanya Reserve Forest",
+   "Latitude": 12.58,
+   "Longitude": 75.64
+ },
+ {
+   "id": 264,
+   "KBA": "Kisa",
+   "Latitude": 25.3,
+   "Longitude": 93.5
+ },
+ {
+   "id": 265,
+   "KBA": "Kishanpur Wildlife Sanctuary",
+   "Latitude": 28.36,
+   "Longitude": 80.39
+ },
+ {
+   "id": 266,
+   "KBA": "Kistwar National Park",
+   "Latitude": 33.64,
+   "Longitude": 76.02
+ },
+ {
+   "id": 267,
+   "KBA": "Kodachadri Reserve Forest - Hosanagara Reserve Forest",
+   "Latitude": 13.88,
+   "Longitude": 74.86
+ },
+ {
+   "id": 268,
+   "KBA": "Kodanad - Nilgiri",
+   "Latitude": 11.52,
+   "Longitude": 76.92
+ },
+ {
+   "id": 269,
+   "KBA": "Kokkare Bellur",
+   "Latitude": 12.5,
+   "Longitude": 77.1
+ },
+ {
+   "id": 270,
+   "KBA": "Kole Wetland",
+   "Latitude": 10.63,
+   "Longitude": 76.06
+ },
+ {
+   "id": 271,
+   "KBA": "Kollegal Forest Division",
+   "Latitude": 11.98,
+   "Longitude": 77.44
+ },
+ {
+   "id": 272,
+   "KBA": "Kolleru Lake Wildlife Sanctuary",
+   "Latitude": 16.61,
+   "Longitude": 81.2
+ },
+ {
+   "id": 273,
+   "KBA": "Koloriang - Sarli - Damin area",
+   "Latitude": 28.09,
+   "Longitude": 93.32
+ },
+ {
+   "id": 274,
+   "KBA": "Konni Reserve Forest",
+   "Latitude": 9.16,
+   "Longitude": 76.99
+ },
+ {
+   "id": 275,
+   "KBA": "Kottiyoor Reserve Forest",
+   "Latitude": 11.93,
+   "Longitude": 75.87
+ },
+ {
+   "id": 276,
+   "KBA": "Koyna Wildlife Sanctuary",
+   "Latitude": 17.57,
+   "Longitude": 73.73
+ },
+ {
+   "id": 277,
+   "KBA": "Krishnarajasagar Reservoir",
+   "Latitude": 12.46,
+   "Longitude": 76.48
+ },
+ {
+   "id": 278,
+   "KBA": "Krungming Reserve Forest, Khorongma & Kopili-Umrangsu Reservoirs",
+   "Latitude": 25.51,
+   "Longitude": 92.67
+ },
+ {
+   "id": 279,
+   "KBA": "Kuarbari Dalani",
+   "Latitude": 27.22,
+   "Longitude": 94.44
+ },
+ {
+   "id": 280,
+   "KBA": "Kudaiyya marshland",
+   "Latitude": 27.01,
+   "Longitude": 79
+ },
+ {
+   "id": 281,
+   "KBA": "Kudremukh National Park",
+   "Latitude": 13.23,
+   "Longitude": 75.21
+ },
+ {
+   "id": 282,
+   "KBA": "Kugti Wildlife Sanctuary",
+   "Latitude": 32.44,
+   "Longitude": 76.74
+ },
+ {
+   "id": 283,
+   "KBA": "Kukkarahalli Tank",
+   "Latitude": 12.31,
+   "Longitude": 76.63
+ },
+ {
+   "id": 284,
+   "KBA": "Kulahupuzha Reserved Forest",
+   "Latitude": 8.79,
+   "Longitude": 77.12
+ },
+ {
+   "id": 285,
+   "KBA": "Kulik (Raiganj) Bird Sanctuary",
+   "Latitude": 25.6,
+   "Longitude": 88.15
+ },
+ {
+   "id": 286,
+   "KBA": "Kullur Sandai Reservoir",
+   "Latitude": 9.55,
+   "Longitude": 77.97
+ },
+ {
+   "id": 287,
+   "KBA": "Kumbalgarh Wildlife Sanctuary",
+   "Latitude": 25.5,
+   "Longitude": 73.68
+ },
+ {
+   "id": 288,
+   "KBA": "Kundah Reserve Forest - Avalanche & Bison Swamp",
+   "Latitude": 11.25,
+   "Longitude": 76.57
+ },
+ {
+   "id": 289,
+   "KBA": "Kunthangulam Bird Sanctuary",
+   "Latitude": 8.49,
+   "Longitude": 77.75
+ },
+ {
+   "id": 290,
+   "KBA": "Kunthur - Kallur Lakes",
+   "Latitude": 12.12,
+   "Longitude": 77.04
+ },
+ {
+   "id": 291,
+   "KBA": "Kurinjimala Wildlife Sanctuary",
+   "Latitude": 10.21,
+   "Longitude": 77.27
+ },
+ {
+   "id": 292,
+   "KBA": "Kurra Jheel",
+   "Latitude": 27.03,
+   "Longitude": 79.08
+ },
+ {
+   "id": 293,
+   "KBA": "Kurseala River Course and Diyara Floodplain",
+   "Latitude": 25.37,
+   "Longitude": 86.9
+ },
+ {
+   "id": 294,
+   "KBA": "Kurumbapatti (Salem District)",
+   "Latitude": 12,
+   "Longitude": 78
+ },
+ {
+   "id": 295,
+   "KBA": "Kusheshwarsthan",
+   "Latitude": 25.85,
+   "Longitude": 86.3
+ },
+ {
+   "id": 296,
+   "KBA": "Kyongnosla Alpine Sanctuary - Tsomgo - Tamze - Chola Complex",
+   "Latitude": 27.4,
+   "Longitude": 88.76
+ },
+ {
+   "id": 297,
+   "KBA": "Lachipora Wildlife Sanctuary",
+   "Latitude": 34.2,
+   "Longitude": 74.07
+ },
+ {
+   "id": 298,
+   "KBA": "Lagga - Bagga Reserve Forest",
+   "Latitude": 28.79,
+   "Longitude": 80.14
+ },
+ {
+   "id": 299,
+   "KBA": "Lakh-Bahosi Bird Sanctuary",
+   "Latitude": 26.92,
+   "Longitude": 79.64
+ },
+ {
+   "id": 300,
+   "KBA": "Lambri Forest (Banjar Forest Division)",
+   "Latitude": 31.58,
+   "Longitude": 77.36
+ },
+ {
+   "id": 301,
+   "KBA": "Landfall Island Wildlife Sanctuary",
+   "Latitude": 13.65,
+   "Longitude": 93.01
+ },
+ {
+   "id": 302,
+   "KBA": "Langting-Mupa Reserve Forest",
+   "Latitude": 25.58,
+   "Longitude": 93.06
+ },
+ {
+   "id": 303,
+   "KBA": "Laokhowa and Burhachapori Sanctuaries",
+   "Latitude": 26.51,
+   "Longitude": 92.71
+ },
+ {
+   "id": 304,
+   "KBA": "Lava - Neora Valley National Park",
+   "Latitude": 27.09,
+   "Longitude": 88.73
+ },
+ {
+   "id": 305,
+   "KBA": "Lengteng Wildlife Sanctuary",
+   "Latitude": 23.8,
+   "Longitude": 93.26
+ },
+ {
+   "id": 306,
+   "KBA": "Lhonak Valley",
+   "Latitude": 27.94,
+   "Longitude": 88.36
+ },
+ {
+   "id": 307,
+   "KBA": "Limbar Valley Wildlife Sanctuary",
+   "Latitude": 34.2,
+   "Longitude": 74.16
+ },
+ {
+   "id": 308,
+   "KBA": "Lingambudhi Lake and environs",
+   "Latitude": 12.27,
+   "Longitude": 76.61
+ },
+ {
+   "id": 309,
+   "KBA": "Lippa Asrang Wildlife Sanctuary",
+   "Latitude": 31.7,
+   "Longitude": 78.25
+ },
+ {
+   "id": 310,
+   "KBA": "Little Andaman",
+   "Latitude": 10.69,
+   "Longitude": 92.48
+ },
+ {
+   "id": 311,
+   "KBA": "Loktak Lake",
+   "Latitude": 24.56,
+   "Longitude": 93.81
+ },
+ {
+   "id": 312,
+   "KBA": "Loktak Lake and Keibul Lamjao National Park",
+   "Latitude": 24.56,
+   "Longitude": 93.85
+ },
+ {
+   "id": 313,
+   "KBA": "Lowland forests of South Sikkim (Melli-Baguwa-Kitam, Jorethang-Namchi, Sombarey)",
+   "Latitude": 27.12,
+   "Longitude": 88.37
+ },
+ {
+   "id": 314,
+   "KBA": "Lumding - Marat Longri",
+   "Latitude": 25.87,
+   "Longitude": 93.22
+ },
+ {
+   "id": 315,
+   "KBA": "Lumding Reserve Forest",
+   "Latitude": 25.83,
+   "Longitude": 93.12
+ },
+ {
+   "id": 316,
+   "KBA": "Madhav National Park",
+   "Latitude": 25.48,
+   "Longitude": 77.77
+ },
+ {
+   "id": 317,
+   "KBA": "Maenam Wildlife Sanctuary - Tendong Reserve Forest",
+   "Latitude": 27.27,
+   "Longitude": 88.38
+ },
+ {
+   "id": 318,
+   "KBA": "Magadi and Shetikere Wetlands",
+   "Latitude": 15.22,
+   "Longitude": 75.52
+ },
+ {
+   "id": 319,
+   "KBA": "Magu Thingbu",
+   "Latitude": 27.72,
+   "Longitude": 92.24
+ },
+ {
+   "id": 320,
+   "KBA": "Maguri and Motapung Beels",
+   "Latitude": 27.57,
+   "Longitude": 95.4
+ },
+ {
+   "id": 321,
+   "KBA": "Mahabaleshwar Reserve Forest",
+   "Latitude": 17.92,
+   "Longitude": 73.67
+ },
+ {
+   "id": 322,
+   "KBA": "Mahananda Wildlife Sanctuary",
+   "Latitude": 26.84,
+   "Longitude": 88.43
+ },
+ {
+   "id": 323,
+   "KBA": "Mahatma Gandhi Marine National Park (Wandoor National Park)",
+   "Latitude": 11.56,
+   "Longitude": 92.58
+ },
+ {
+   "id": 324,
+   "KBA": "Mahaveer Swami Wildlife Sanctuary (Lalitpur)",
+   "Latitude": 24.43,
+   "Longitude": 78.36
+ },
+ {
+   "id": 325,
+   "KBA": "Mahendri Reserve Forest",
+   "Latitude": 21.5,
+   "Longitude": 78.36
+ },
+ {
+   "id": 326,
+   "KBA": "Mahul - Sewree Creek",
+   "Latitude": 18.99,
+   "Longitude": 72.87
+ },
+ {
+   "id": 327,
+   "KBA": "Majathal Wildlife Sanctuary",
+   "Latitude": 31.3,
+   "Longitude": 76.97
+ },
+ {
+   "id": 328,
+   "KBA": "Majuli",
+   "Latitude": 26.96,
+   "Longitude": 94.19
+ },
+ {
+   "id": 329,
+   "KBA": "Malayattur Reserve Forest",
+   "Latitude": 10.21,
+   "Longitude": 76.74
+ },
+ {
+   "id": 330,
+   "KBA": "Manabum and Tengapani Reserve Forests",
+   "Latitude": 27.69,
+   "Longitude": 96.03
+ },
+ {
+   "id": 331,
+   "KBA": "Manali Wildlife Sanctuary",
+   "Latitude": 32.23,
+   "Longitude": 77.12
+ },
+ {
+   "id": 332,
+   "KBA": "Manas National Park",
+   "Latitude": 26.72,
+   "Longitude": 91
+ },
+ {
+   "id": 333,
+   "KBA": "Mandla Phudung",
+   "Latitude": 27.36,
+   "Longitude": 92.12
+ },
+ {
+   "id": 334,
+   "KBA": "Mangal Jodi",
+   "Latitude": 19.88,
+   "Longitude": 85.45
+ },
+ {
+   "id": 335,
+   "KBA": "Manjira Wildlife Sanctuary",
+   "Latitude": 17.7,
+   "Longitude": 78.03
+ },
+ {
+   "id": 336,
+   "KBA": "Mankulam Forest Division",
+   "Latitude": 10.08,
+   "Longitude": 76.98
+ },
+ {
+   "id": 337,
+   "KBA": "Marat Longri Wildlife Sanctuary",
+   "Latitude": 25.9,
+   "Longitude": 93.28
+ },
+ {
+   "id": 338,
+   "KBA": "Marine National Park and Wildlife Sanctuary",
+   "Latitude": 22.46,
+   "Longitude": 69.61
+ },
+ {
+   "id": 339,
+   "KBA": "Mathikettan Shola National Park",
+   "Latitude": 9.97,
+   "Longitude": 77.22
+ },
+ {
+   "id": 340,
+   "KBA": "Mawphlang Sacred Grove",
+   "Latitude": 25.46,
+   "Longitude": 91.69
+ },
+ {
+   "id": 341,
+   "KBA": "Mechuka - Monigong - Jorgging",
+   "Latitude": 28.8,
+   "Longitude": 94.31
+ },
+ {
+   "id": 342,
+   "KBA": "Mechuka - Tato",
+   "Latitude": 28.88,
+   "Longitude": 94.31
+ },
+ {
+   "id": 343,
+   "KBA": "Megamalai Mountains",
+   "Latitude": 9.62,
+   "Longitude": 77.35
+ },
+ {
+   "id": 344,
+   "KBA": "Mehao Wildlife Sanctuary",
+   "Latitude": 28.15,
+   "Longitude": 95.94
+ },
+ {
+   "id": 345,
+   "KBA": "Melghat Tiger Reserve",
+   "Latitude": 21.39,
+   "Longitude": 77.1
+ },
+ {
+   "id": 346,
+   "KBA": "Melkote Temple Wildlife Sanctuary",
+   "Latitude": 12.68,
+   "Longitude": 76.62
+ },
+ {
+   "id": 347,
+   "KBA": "Menar Lake",
+   "Latitude": 24.59,
+   "Longitude": 74.11
+ },
+ {
+   "id": 348,
+   "KBA": "Metkalgudde Reserve Forest - Shankaranarayan Reserve Forest",
+   "Latitude": 13.68,
+   "Longitude": 74.97
+ },
+ {
+   "id": 349,
+   "KBA": "Mhadei Wildlife Sanctuary and area",
+   "Latitude": 15.58,
+   "Longitude": 74.2
+ },
+ {
+   "id": 350,
+   "KBA": "Mirgund Jheel and Reserve",
+   "Latitude": 34.12,
+   "Longitude": 74.64
+ },
+ {
+   "id": 351,
+   "KBA": "Mokama Taal (Barah) Wetlands",
+   "Latitude": 25.37,
+   "Longitude": 85.72
+ },
+ {
+   "id": 352,
+   "KBA": "Molem National Park",
+   "Latitude": 15.34,
+   "Longitude": 74.28
+ },
+ {
+   "id": 353,
+   "KBA": "Monigong - Jorgging - Tuting",
+   "Latitude": 28.45,
+   "Longitude": 94.29
+ },
+ {
+   "id": 354,
+   "KBA": "Mookambika Wildlife Sanctuary",
+   "Latitude": 13.81,
+   "Longitude": 74.82
+ },
+ {
+   "id": 355,
+   "KBA": "Mouling National Park",
+   "Latitude": 28.56,
+   "Longitude": 94.95
+ },
+ {
+   "id": 356,
+   "KBA": "Mount Abu Wildlife Sanctuary",
+   "Latitude": 24.61,
+   "Longitude": 72.76
+ },
+ {
+   "id": 357,
+   "KBA": "Mount Diavalo and Cuthbert Bay",
+   "Latitude": 12.62,
+   "Longitude": 92.94
+ },
+ {
+   "id": 358,
+   "KBA": "Mount Harriet National Park",
+   "Latitude": 11.8,
+   "Longitude": 92.76
+ },
+ {
+   "id": 359,
+   "KBA": "Mount Paona",
+   "Latitude": 25.49,
+   "Longitude": 93.63
+ },
+ {
+   "id": 360,
+   "KBA": "Mount Zanibu",
+   "Latitude": 25.69,
+   "Longitude": 94.34
+ },
+ {
+   "id": 361,
+   "KBA": "Mount Ziphu",
+   "Latitude": 25.66,
+   "Longitude": 94.76
+ },
+ {
+   "id": 362,
+   "KBA": "Mudumalai National Park",
+   "Latitude": 11.6,
+   "Longitude": 76.54
+ },
+ {
+   "id": 363,
+   "KBA": "Mukurthi National Park (Nilgiris)",
+   "Latitude": 11.27,
+   "Longitude": 76.51
+ },
+ {
+   "id": 364,
+   "KBA": "Munnar",
+   "Latitude": 10.07,
+   "Longitude": 77.01
+ },
+ {
+   "id": 365,
+   "KBA": "Murlen National Park",
+   "Latitude": 23.62,
+   "Longitude": 93.29
+ },
+ {
+   "id": 366,
+   "KBA": "Muthikulam-Siruvani Reserve Forest",
+   "Latitude": 10.97,
+   "Longitude": 76.62
+ },
+ {
+   "id": 367,
+   "KBA": "Nacho - Limeking - Taksing - Majha",
+   "Latitude": 28.56,
+   "Longitude": 93.53
+ },
+ {
+   "id": 368,
+   "KBA": "Naduvattam",
+   "Latitude": 11.44,
+   "Longitude": 76.55
+ },
+ {
+   "id": 369,
+   "KBA": "Nafra - Lada area",
+   "Latitude": 27.72,
+   "Longitude": 92.68
+ },
+ {
+   "id": 370,
+   "KBA": "Nagarhole National Park",
+   "Latitude": 12.06,
+   "Longitude": 76.16
+ },
+ {
+   "id": 371,
+   "KBA": "Nagi Dam and Nakti Dam Bird Sanctuary",
+   "Latitude": 24.83,
+   "Longitude": 86.43
+ },
+ {
+   "id": 372,
+   "KBA": "Nagzira Wildlife Sanctuary",
+   "Latitude": 21.28,
+   "Longitude": 80.02
+ },
+ {
+   "id": 373,
+   "KBA": "Nalabana Bird Sanctuary (Chilika Lake)",
+   "Latitude": 19.73,
+   "Longitude": 85.43
+ },
+ {
+   "id": 374,
+   "KBA": "Naliya Grassland (Lala Bustard Wildlife Sanctuary)",
+   "Latitude": 23.21,
+   "Longitude": 68.87
+ },
+ {
+   "id": 375,
+   "KBA": "Nalsarovar Wildlife Sanctuary",
+   "Latitude": 22.98,
+   "Longitude": 71.93
+ },
+ {
+   "id": 376,
+   "KBA": "Namdapha - Kamlang",
+   "Latitude": 27.56,
+   "Longitude": 96.62
+ },
+ {
+   "id": 377,
+   "KBA": "Namdapha National Park",
+   "Latitude": 27.48,
+   "Longitude": 96.64
+ },
+ {
+   "id": 378,
+   "KBA": "Nameri National Park",
+   "Latitude": 26.96,
+   "Longitude": 92.84
+ },
+ {
+   "id": 379,
+   "KBA": "Namsangmukh - Borduria",
+   "Latitude": 27.2,
+   "Longitude": 95.51
+ },
+ {
+   "id": 380,
+   "KBA": "Namtok, Namheik, Nampong and Manmao",
+   "Latitude": 27.29,
+   "Longitude": 96.19
+ },
+ {
+   "id": 381,
+   "KBA": "Nanda Devi Biosphere Reserve",
+   "Latitude": 30.4,
+   "Longitude": 79.88
+ },
+ {
+   "id": 382,
+   "KBA": "Nandhour Wildlife Sanctuary",
+   "Latitude": 29.11,
+   "Longitude": 79.86
+ },
+ {
+   "id": 383,
+   "KBA": "Nandi Hills",
+   "Latitude": 13.37,
+   "Longitude": 77.69
+ },
+ {
+   "id": 384,
+   "KBA": "Nandur Madhmeshwar Wildlife Sanctuary",
+   "Latitude": 20.01,
+   "Longitude": 74.12
+ },
+ {
+   "id": 385,
+   "KBA": "Narasambudhi Lake",
+   "Latitude": 12.07,
+   "Longitude": 76.73
+ },
+ {
+   "id": 386,
+   "KBA": "Narcondam Island Wildlife Sanctuary",
+   "Latitude": 13.45,
+   "Longitude": 94.26
+ },
+ {
+   "id": 387,
+   "KBA": "Nargu Wildlife Sanctuary",
+   "Latitude": 31.92,
+   "Longitude": 76.96
+ },
+ {
+   "id": 388,
+   "KBA": "Narora",
+   "Latitude": 28.1,
+   "Longitude": 78.49
+ },
+ {
+   "id": 389,
+   "KBA": "National Chambal Wildlife Sanctuary (Agra/Etawah)",
+   "Latitude": 26.71,
+   "Longitude": 78.78
+ },
+ {
+   "id": 390,
+   "KBA": "National Chambal Wildlife Sanctuary (Bundi/Kota)",
+   "Latitude": 26.3,
+   "Longitude": 77.33
+ },
+ {
+   "id": 391,
+   "KBA": "Navegaon National Park",
+   "Latitude": 20.98,
+   "Longitude": 80.19
+ },
+ {
+   "id": 392,
+   "KBA": "Navelim wetland",
+   "Latitude": 15.55,
+   "Longitude": 74
+ },
+ {
+   "id": 393,
+   "KBA": "Nawabganj Bird Sanctuary",
+   "Latitude": 26.61,
+   "Longitude": 80.66
+ },
+ {
+   "id": 394,
+   "KBA": "Naya Bandh Wetland Complex",
+   "Latitude": 24.97,
+   "Longitude": 88.3
+ },
+ {
+   "id": 395,
+   "KBA": "Nelapattu Bird Sanctuary",
+   "Latitude": 16.66,
+   "Longitude": 79.39
+ },
+ {
+   "id": 396,
+   "KBA": "Nelliyampathy (Nemmara Division)",
+   "Latitude": 10.51,
+   "Longitude": 76.7
+ },
+ {
+   "id": 397,
+   "KBA": "Neria Reserve Forest",
+   "Latitude": 13.02,
+   "Longitude": 75.49
+ },
+ {
+   "id": 398,
+   "KBA": "Netravali Wildlife Sanctuary",
+   "Latitude": 15.12,
+   "Longitude": 74.25
+ },
+ {
+   "id": 399,
+   "KBA": "New Forest Campus",
+   "Latitude": 30.34,
+   "Longitude": 78
+ },
+ {
+   "id": 400,
+   "KBA": "Neyyar Wildlife Sanctuary",
+   "Latitude": 8.56,
+   "Longitude": 77.23
+ },
+ {
+   "id": 401,
+   "KBA": "Ngengpui Wildlife Sanctuary",
+   "Latitude": 22.42,
+   "Longitude": 92.8
+ },
+ {
+   "id": 402,
+   "KBA": "Nikol-Samadhiyala-Malan Wetlands Complex",
+   "Latitude": 21.06,
+   "Longitude": 71.8
+ },
+ {
+   "id": 403,
+   "KBA": "Nilgiri North Forest Division",
+   "Latitude": 11.52,
+   "Longitude": 76.77
+ },
+ {
+   "id": 404,
+   "KBA": "Nokrek National Park",
+   "Latitude": 25.45,
+   "Longitude": 90.4
+ },
+ {
+   "id": 405,
+   "KBA": "Nongkhlaw",
+   "Latitude": 25.67,
+   "Longitude": 91.91
+ },
+ {
+   "id": 406,
+   "KBA": "Nongkhyllem and adjacent areas",
+   "Latitude": 25.87,
+   "Longitude": 91.78
+ },
+ {
+   "id": 407,
+   "KBA": "Noorukuppalakonda Reserve Forest",
+   "Latitude": 13.61,
+   "Longitude": 78.61
+ },
+ {
+   "id": 408,
+   "KBA": "Norpuh Reserve Forests",
+   "Latitude": 25.11,
+   "Longitude": 92.37
+ },
+ {
+   "id": 409,
+   "KBA": "North and South Sentinel",
+   "Latitude": 11.54,
+   "Longitude": 92.24
+ },
+ {
+   "id": 410,
+   "KBA": "North Karanpura Valley",
+   "Latitude": 23.8,
+   "Longitude": 85.14
+ },
+ {
+   "id": 411,
+   "KBA": "North Reef Island Wildlife Sanctuary",
+   "Latitude": 13.09,
+   "Longitude": 92.7
+ },
+ {
+   "id": 412,
+   "KBA": "Odiyur Lagoon",
+   "Latitude": 12.35,
+   "Longitude": 80.04
+ },
+ {
+   "id": 413,
+   "KBA": "Okhla Bird Sanctuary",
+   "Latitude": 28.56,
+   "Longitude": 77.3
+ },
+ {
+   "id": 414,
+   "KBA": "Orang National Park",
+   "Latitude": 26.55,
+   "Longitude": 92.32
+ },
+ {
+   "id": 415,
+   "KBA": "Ousteri Lake",
+   "Latitude": 11.96,
+   "Longitude": 79.74
+ },
+ {
+   "id": 416,
+   "KBA": "Overa-Aru Wildlife Sanctuary",
+   "Latitude": 34.12,
+   "Longitude": 75.25
+ },
+ {
+   "id": 417,
+   "KBA": "Ozar and adjoining grassland",
+   "Latitude": 20.08,
+   "Longitude": 73.88
+ },
+ {
+   "id": 418,
+   "KBA": "Pabho Reserve Forest",
+   "Latitude": 27.04,
+   "Longitude": 94.08
+ },
+ {
+   "id": 419,
+   "KBA": "Pabitora Wildlife Sanctuary",
+   "Latitude": 26.24,
+   "Longitude": 92.03
+ },
+ {
+   "id": 420,
+   "KBA": "Pachmarhi Biosphere Reserve",
+   "Latitude": 22.57,
+   "Longitude": 78.33
+ },
+ {
+   "id": 421,
+   "KBA": "Padinalknad Reserve Forest - Subramanya Reserve Forest",
+   "Latitude": 12.21,
+   "Longitude": 75.59
+ },
+ {
+   "id": 422,
+   "KBA": "Pakhal Lake Wildlife Sanctuary",
+   "Latitude": 17.9,
+   "Longitude": 80.11
+ },
+ {
+   "id": 423,
+   "KBA": "Pakhui or Pakke Wildlife Sanctuary",
+   "Latitude": 27.1,
+   "Longitude": 92.86
+ },
+ {
+   "id": 424,
+   "KBA": "Palak Dil",
+   "Latitude": 22.2,
+   "Longitude": 92.89
+ },
+ {
+   "id": 425,
+   "KBA": "Palamau Tiger Reserve",
+   "Latitude": 23.59,
+   "Longitude": 84.15
+ },
+ {
+   "id": 426,
+   "KBA": "Palni Hills (including Kodaikanal Reserve Forest)",
+   "Latitude": 10.27,
+   "Longitude": 77.53
+ },
+ {
+   "id": 427,
+   "KBA": "Pampadum Shola National Park",
+   "Latitude": 10.14,
+   "Longitude": 77.26
+ },
+ {
+   "id": 428,
+   "KBA": "Pangolakha Wildlife Sanctuary - Zuluk - Bedang Tso - Natula Complex",
+   "Latitude": 27.27,
+   "Longitude": 88.83
+ },
+ {
+   "id": 429,
+   "KBA": "Pangong Tso",
+   "Latitude": 33.79,
+   "Longitude": 78.71
+ },
+ {
+   "id": 430,
+   "KBA": "Pani-Dihing Bird Sanctuary",
+   "Latitude": 27.12,
+   "Longitude": 94.62
+ },
+ {
+   "id": 431,
+   "KBA": "Panna National Park",
+   "Latitude": 24.62,
+   "Longitude": 79.94
+ },
+ {
+   "id": 432,
+   "KBA": "Papikonda National Park",
+   "Latitude": 17.47,
+   "Longitude": 81.48
+ },
+ {
+   "id": 433,
+   "KBA": "Papum Reserve Forest",
+   "Latitude": 27.02,
+   "Longitude": 93.2
+ },
+ {
+   "id": 434,
+   "KBA": "Parambikulam Wildlife Sanctuary",
+   "Latitude": 10.41,
+   "Longitude": 76.74
+ },
+ {
+   "id": 435,
+   "KBA": "Parvati Aranga Wildlife Sanctuary",
+   "Latitude": 26.93,
+   "Longitude": 82.16
+ },
+ {
+   "id": 436,
+   "KBA": "Patna Bird Sanctuary",
+   "Latitude": 27.53,
+   "Longitude": 78.31
+ },
+ {
+   "id": 437,
+   "KBA": "Pattighat Reserve Forest  -  Sampaji Reserve Forest",
+   "Latitude": 12.44,
+   "Longitude": 75.53
+ },
+ {
+   "id": 438,
+   "KBA": "Pawalgarh Conservation Reserve",
+   "Latitude": 29.37,
+   "Longitude": 79.22
+ },
+ {
+   "id": 439,
+   "KBA": "Peechi - Vazhani Wildlife Sanctuary",
+   "Latitude": 10.53,
+   "Longitude": 76.38
+ },
+ {
+   "id": 440,
+   "KBA": "Pench Tiger Reserve",
+   "Latitude": 21.77,
+   "Longitude": 79.31
+ },
+ {
+   "id": 441,
+   "KBA": "Pench Tiger Reserve",
+   "Latitude": 21.57,
+   "Longitude": 79.16
+ },
+ {
+   "id": 442,
+   "KBA": "Peppara Wildlife Sanctuary",
+   "Latitude": 8.64,
+   "Longitude": 77.18
+ },
+ {
+   "id": 443,
+   "KBA": "Periyar Wildlife Sanctuary",
+   "Latitude": 9.47,
+   "Longitude": 77.22
+ },
+ {
+   "id": 444,
+   "KBA": "Pfutsero-Chizami",
+   "Latitude": 25.54,
+   "Longitude": 94.29
+ },
+ {
+   "id": 445,
+   "KBA": "Phansad Wildlife Sanctuary",
+   "Latitude": 18.42,
+   "Longitude": 72.96
+ },
+ {
+   "id": 446,
+   "KBA": "Phulwari Wildlife Sanctuary",
+   "Latitude": 24.4,
+   "Longitude": 73.34
+ },
+ {
+   "id": 447,
+   "KBA": "Pichavaram mangroves",
+   "Latitude": 11.43,
+   "Longitude": 79.8
+ },
+ {
+   "id": 448,
+   "KBA": "Pilibhit Tiger Reserve",
+   "Latitude": 28.58,
+   "Longitude": 80.08
+ },
+ {
+   "id": 449,
+   "KBA": "Pin Valley National Park",
+   "Latitude": 31.96,
+   "Longitude": 77.89
+ },
+ {
+   "id": 450,
+   "KBA": "Pitti Island",
+   "Latitude": 10.88,
+   "Longitude": 72.6
+ },
+ {
+   "id": 451,
+   "KBA": "Pocharam Wildlife Sanctuary",
+   "Latitude": 18.21,
+   "Longitude": 78.26
+ },
+ {
+   "id": 452,
+   "KBA": "Point Calimere Wildlife Sanctuary",
+   "Latitude": 10.33,
+   "Longitude": 79.66
+ },
+ {
+   "id": 453,
+   "KBA": "Pong Dam Lake Wildlife Sanctuary",
+   "Latitude": 32,
+   "Longitude": 76.06
+ },
+ {
+   "id": 454,
+   "KBA": "Poomparai and Kukkal",
+   "Latitude": 10.34,
+   "Longitude": 77.39
+ },
+ {
+   "id": 455,
+   "KBA": "Puduserry Kerala",
+   "Latitude": 10.88,
+   "Longitude": 76.74
+ },
+ {
+   "id": 456,
+   "KBA": "Pulicat Lake",
+   "Latitude": 13.7,
+   "Longitude": 80.16
+ },
+ {
+   "id": 457,
+   "KBA": "Puliebadze-Dzukou-Zapfu",
+   "Latitude": 25.6,
+   "Longitude": 94.07
+ },
+ {
+   "id": 458,
+   "KBA": "Pushpagiri Wildlife Sanctuary",
+   "Latitude": 12.59,
+   "Longitude": 75.68
+ },
+ {
+   "id": 459,
+   "KBA": "Pyagpur and Sitadwar Jheel",
+   "Latitude": 27.41,
+   "Longitude": 81.73
+ },
+ {
+   "id": 460,
+   "KBA": "Radhanagari Wildlife Sanctuary",
+   "Latitude": 16.33,
+   "Longitude": 73.95
+ },
+ {
+   "id": 461,
+   "KBA": "Rajaji National Park",
+   "Latitude": 30.03,
+   "Longitude": 78.15
+ },
+ {
+   "id": 462,
+   "KBA": "Rajiv Ghandi Wildlife Sanctuary (Nagarjunasagar - Srisailam Tiger Reserve)",
+   "Latitude": 16.21,
+   "Longitude": 78.91
+ },
+ {
+   "id": 463,
+   "KBA": "Ramanagara Reserve Forest",
+   "Latitude": 12.73,
+   "Longitude": 77.35
+ },
+ {
+   "id": 464,
+   "KBA": "Ramnagar Wildlife Sanctuary",
+   "Latitude": 32.78,
+   "Longitude": 74.86
+ },
+ {
+   "id": 465,
+   "KBA": "Rampura Grassland",
+   "Latitude": 22.82,
+   "Longitude": 74.17
+ },
+ {
+   "id": 466,
+   "KBA": "Ramsagar Lake",
+   "Latitude": 25.6,
+   "Longitude": 75.5
+ },
+ {
+   "id": 467,
+   "KBA": "Ranebennur Blackbuck Sanctuary",
+   "Latitude": 14.67,
+   "Longitude": 75.66
+ },
+ {
+   "id": 468,
+   "KBA": "Rangananthittu Bird Sanctuary",
+   "Latitude": 12.43,
+   "Longitude": 76.66
+ },
+ {
+   "id": 469,
+   "KBA": "Rangapahar Macaque Sanctuary",
+   "Latitude": 25.74,
+   "Longitude": 93.62
+ },
+ {
+   "id": 470,
+   "KBA": "Rangawa Reservoir",
+   "Latitude": 24.69,
+   "Longitude": 79.84
+ },
+ {
+   "id": 471,
+   "KBA": "Rani Jhansi Marine National Park",
+   "Latitude": 12.15,
+   "Longitude": 93.06
+ },
+ {
+   "id": 472,
+   "KBA": "Ranni Reserve Forest",
+   "Latitude": 9.32,
+   "Longitude": 77.08
+ },
+ {
+   "id": 473,
+   "KBA": "Ranthambore National Park and Tiger Reserve",
+   "Latitude": 26.02,
+   "Longitude": 76.52
+ },
+ {
+   "id": 474,
+   "KBA": "Ratapani Wildlife Sanctuary",
+   "Latitude": 22.96,
+   "Longitude": 77.68
+ },
+ {
+   "id": 475,
+   "KBA": "Reservoirs of Chota Nagpur Plateau",
+   "Latitude": 23.8,
+   "Longitude": 86.59
+ },
+ {
+   "id": 476,
+   "KBA": "Riat Khwan - Umiam Lake",
+   "Latitude": 25.64,
+   "Longitude": 91.87
+ },
+ {
+   "id": 477,
+   "KBA": "Ripu and Chirang Reserve Forests",
+   "Latitude": 26.72,
+   "Longitude": 90.2
+ },
+ {
+   "id": 478,
+   "KBA": "Ripu Reserve Forest",
+   "Latitude": 26.68,
+   "Longitude": 90.07
+ },
+ {
+   "id": 479,
+   "KBA": "Rollapadu Wildlife Sanctuary",
+   "Latitude": 15.74,
+   "Longitude": 78.36
+ },
+ {
+   "id": 480,
+   "KBA": "Rongli",
+   "Latitude": 27.13,
+   "Longitude": 88.41
+ },
+ {
+   "id": 481,
+   "KBA": "Rongrengri",
+   "Latitude": 25.51,
+   "Longitude": 90.47
+ },
+ {
+   "id": 482,
+   "KBA": "Ropar Lake",
+   "Latitude": 31.05,
+   "Longitude": 76.55
+ },
+ {
+   "id": 483,
+   "KBA": "Rudrasagar Lake",
+   "Latitude": 23.5,
+   "Longitude": 91.32
+ },
+ {
+   "id": 484,
+   "KBA": "Rupi Bhaba Wildlife Sanctuary",
+   "Latitude": 31.68,
+   "Longitude": 77.93
+ },
+ {
+   "id": 485,
+   "KBA": "Saddle Peak National Park",
+   "Latitude": 13.17,
+   "Longitude": 93.02
+ },
+ {
+   "id": 486,
+   "KBA": "Sailana Kharmor Sanctuary",
+   "Latitude": 23.5,
+   "Longitude": 74.89
+ },
+ {
+   "id": 487,
+   "KBA": "Saipung",
+   "Latitude": 25.2,
+   "Longitude": 92.67
+ },
+ {
+   "id": 488,
+   "KBA": "Sajjangarh Wildlife Sanctuary",
+   "Latitude": 24.6,
+   "Longitude": 73.64
+ },
+ {
+   "id": 489,
+   "KBA": "Saltpans of Bhavnagar",
+   "Latitude": 21.85,
+   "Longitude": 72.17
+ },
+ {
+   "id": 490,
+   "KBA": "Saman Bird Sanctuary",
+   "Latitude": 27.01,
+   "Longitude": 79.18
+ },
+ {
+   "id": 491,
+   "KBA": "Samaspur Bird Sanctuary",
+   "Latitude": 26,
+   "Longitude": 81.39
+ },
+ {
+   "id": 492,
+   "KBA": "Sambhar Lake",
+   "Latitude": 26.95,
+   "Longitude": 75.05
+ },
+ {
+   "id": 493,
+   "KBA": "Sandi Wildlife Sanctuary",
+   "Latitude": 27.31,
+   "Longitude": 79.97
+ },
+ {
+   "id": 494,
+   "KBA": "Sangla (Raksham Chitkul) Wildlife Sanctuary",
+   "Latitude": 31.35,
+   "Longitude": 78.4
+ },
+ {
+   "id": 495,
+   "KBA": "Sangti Valley",
+   "Latitude": 27.4,
+   "Longitude": 92.28
+ },
+ {
+   "id": 496,
+   "KBA": "Sanjay Gandhi National Park",
+   "Latitude": 19.23,
+   "Longitude": 72.91
+ },
+ {
+   "id": 497,
+   "KBA": "Sarah Valley, Lower Dharamshala",
+   "Latitude": 32.2,
+   "Longitude": 76.3
+ },
+ {
+   "id": 498,
+   "KBA": "Sardar Samand Lake",
+   "Latitude": 25.99,
+   "Longitude": 73.39
+ },
+ {
+   "id": 499,
+   "KBA": "Sardarpur Wildlife Sanctuary",
+   "Latitude": 22.7,
+   "Longitude": 74.91
+ },
+ {
+   "id": 500,
+   "KBA": "Sareri Bandh",
+   "Latitude": 25.69,
+   "Longitude": 74.58
+ },
+ {
+   "id": 501,
+   "KBA": "Sareswar Beel",
+   "Latitude": 26.16,
+   "Longitude": 89.93
+ },
+ {
+   "id": 502,
+   "KBA": "Sariska Tiger Reserve",
+   "Latitude": 27.35,
+   "Longitude": 76.43
+ },
+ {
+   "id": 503,
+   "KBA": "Sarsai Nawar Lake",
+   "Latitude": 26.94,
+   "Longitude": 79.28
+ },
+ {
+   "id": 504,
+   "KBA": "Sathyamangalam Forest Division (part)",
+   "Latitude": 11.65,
+   "Longitude": 77.26
+ },
+ {
+   "id": 505,
+   "KBA": "Satkosia Gorge Wildlife Sanctuary",
+   "Latitude": 20.63,
+   "Longitude": 84.86
+ },
+ {
+   "id": 506,
+   "KBA": "Satoi Range",
+   "Latitude": 25.86,
+   "Longitude": 94.67
+ },
+ {
+   "id": 507,
+   "KBA": "Sauj Lake",
+   "Latitude": 27.03,
+   "Longitude": 79.15
+ },
+ {
+   "id": 508,
+   "KBA": "Sechu Tuan Nala Wildlife Sanctuary",
+   "Latitude": 33.03,
+   "Longitude": 76.66
+ },
+ {
+   "id": 509,
+   "KBA": "Sei Dam reservoir and surrounding environs",
+   "Latitude": 24.72,
+   "Longitude": 73.21
+ },
+ {
+   "id": 510,
+   "KBA": "Sessa Orchid Sanctuary",
+   "Latitude": 27.12,
+   "Longitude": 92.5
+ },
+ {
+   "id": 511,
+   "KBA": "Shallabugh Conservation Reserve",
+   "Latitude": 34.16,
+   "Longitude": 74.73
+ },
+ {
+   "id": 512,
+   "KBA": "Sharavathi Valley Wildlife Sanctuary",
+   "Latitude": 14.09,
+   "Longitude": 74.79
+ },
+ {
+   "id": 513,
+   "KBA": "Sheikha Jheel",
+   "Latitude": 27.86,
+   "Longitude": 78.22
+ },
+ {
+   "id": 514,
+   "KBA": "Shendurney Wildlife Sanctuary",
+   "Latitude": 8.89,
+   "Longitude": 77.18
+ },
+ {
+   "id": 515,
+   "KBA": "Shergaon - Tenzinggang - Kalaktang",
+   "Latitude": 27.19,
+   "Longitude": 92.13
+ },
+ {
+   "id": 516,
+   "KBA": "Shergaon, Mandla - Phudung and Kalaktang",
+   "Latitude": 27.29,
+   "Longitude": 92.13
+ },
+ {
+   "id": 517,
+   "KBA": "Shettihalli Wildlife Sanctuary",
+   "Latitude": 13.89,
+   "Longitude": 75.4
+ },
+ {
+   "id": 518,
+   "KBA": "Shikari Devi Wildlife Sanctuary",
+   "Latitude": 31.49,
+   "Longitude": 77.17
+ },
+ {
+   "id": 519,
+   "KBA": "Shimla Water Catchment Wildlife Sanctuary",
+   "Latitude": 31.07,
+   "Longitude": 77.24
+ },
+ {
+   "id": 520,
+   "KBA": "Shiradi Shisale Reserve Forest",
+   "Latitude": 12.87,
+   "Longitude": 75.56
+ },
+ {
+   "id": 521,
+   "KBA": "Shiroi Community Forest",
+   "Latitude": 25.11,
+   "Longitude": 94.48
+ },
+ {
+   "id": 522,
+   "KBA": "Shola around Kodaikanal",
+   "Latitude": 10.21,
+   "Longitude": 77.5
+ },
+ {
+   "id": 523,
+   "KBA": "Sibsagar Tanks",
+   "Latitude": 26.96,
+   "Longitude": 94.6
+ },
+ {
+   "id": 524,
+   "KBA": "Silent Valley National Park",
+   "Latitude": 11.14,
+   "Longitude": 76.44
+ },
+ {
+   "id": 525,
+   "KBA": "Simbalbara National Park",
+   "Latitude": 30.42,
+   "Longitude": 77.52
+ },
+ {
+   "id": 526,
+   "KBA": "Simlipal National Park",
+   "Latitude": 21.81,
+   "Longitude": 86.31
+ },
+ {
+   "id": 527,
+   "KBA": "Singhalila National Park",
+   "Latitude": 27.14,
+   "Longitude": 88.04
+ },
+ {
+   "id": 528,
+   "KBA": "Sinhgarh",
+   "Latitude": 18.39,
+   "Longitude": 73.72
+ },
+ {
+   "id": 529,
+   "KBA": "Sirkum Pahar",
+   "Latitude": 28.51,
+   "Longitude": 93.73
+ },
+ {
+   "id": 530,
+   "KBA": "Sirpur Lake",
+   "Latitude": 22.7,
+   "Longitude": 75.81
+ },
+ {
+   "id": 531,
+   "KBA": "Siruvani Foothills",
+   "Latitude": 11,
+   "Longitude": 76.78
+ },
+ {
+   "id": 532,
+   "KBA": "Sitamata Wildlife Sanctuary",
+   "Latitude": 24.21,
+   "Longitude": 74.53
+ },
+ {
+   "id": 533,
+   "KBA": "Sohagibarwa Wildlife Sanctuary",
+   "Latitude": 27.28,
+   "Longitude": 83.57
+ },
+ {
+   "id": 534,
+   "KBA": "Soheldev Wildlife Sanctuary",
+   "Latitude": 27.76,
+   "Longitude": 82.25
+ },
+ {
+   "id": 535,
+   "KBA": "Someshwara Reserve Forest",
+   "Latitude": 13.43,
+   "Longitude": 75.1
+ },
+ {
+   "id": 536,
+   "KBA": "Someshwara Wildlife Sanctuary",
+   "Latitude": 13.52,
+   "Longitude": 75.01
+ },
+ {
+   "id": 537,
+   "KBA": "Son Beel",
+   "Latitude": 24.68,
+   "Longitude": 92.45
+ },
+ {
+   "id": 538,
+   "KBA": "Sonai-Rupai Wildlife Sanctuary",
+   "Latitude": 26.9,
+   "Longitude": 92.47
+ },
+ {
+   "id": 539,
+   "KBA": "Sonanadi Wildlife Sanctuary",
+   "Latitude": 29.64,
+   "Longitude": 78.71
+ },
+ {
+   "id": 540,
+   "KBA": "Sonkhaliya Closed Area",
+   "Latitude": 26.3,
+   "Longitude": 74.77
+ },
+ {
+   "id": 541,
+   "KBA": "Sri Lankamalleswara Wildlife Sanctuary",
+   "Latitude": 14.58,
+   "Longitude": 78.91
+ },
+ {
+   "id": 542,
+   "KBA": "Sri Penusila Narasimha Wildlife Sanctuary",
+   "Latitude": 14.38,
+   "Longitude": 79.28
+ },
+ {
+   "id": 543,
+   "KBA": "Sri Venkateswara Wildlife Sanctuary and National Park",
+   "Latitude": 13.72,
+   "Longitude": 79.3
+ },
+ {
+   "id": 544,
+   "KBA": "Srivilliputhur Wildlife Sanctuary",
+   "Latitude": 9.62,
+   "Longitude": 77.56
+ },
+ {
+   "id": 545,
+   "KBA": "Subansiri",
+   "Latitude": 27.52,
+   "Longitude": 94.25
+ },
+ {
+   "id": 546,
+   "KBA": "Suchindram Therur, Vembanoor",
+   "Latitude": 8.12,
+   "Longitude": 77.48
+ },
+ {
+   "id": 547,
+   "KBA": "Sulekere Lake",
+   "Latitude": 12.5,
+   "Longitude": 77
+ },
+ {
+   "id": 548,
+   "KBA": "Sultanpur National Park",
+   "Latitude": 28.46,
+   "Longitude": 76.89
+ },
+ {
+   "id": 549,
+   "KBA": "Sunabeda Wildlife Sanctuary",
+   "Latitude": 20.56,
+   "Longitude": 82.47
+ },
+ {
+   "id": 550,
+   "KBA": "Sundarbans Biosphere Reserve (National Park)",
+   "Latitude": 21.88,
+   "Longitude": 88.77
+ },
+ {
+   "id": 551,
+   "KBA": "Sur Sarovar Bird Sanctuary",
+   "Latitude": 27.25,
+   "Longitude": 77.84
+ },
+ {
+   "id": 552,
+   "KBA": "Surajpur wetland",
+   "Latitude": 28.53,
+   "Longitude": 77.5
+ },
+ {
+   "id": 553,
+   "KBA": "Surha Tal Wildlife Sanctuary",
+   "Latitude": 25.84,
+   "Longitude": 84.17
+ },
+ {
+   "id": 554,
+   "KBA": "Tadoba National Park and Andhari Tiger Reserve",
+   "Latitude": 20.27,
+   "Longitude": 79.39
+ },
+ {
+   "id": 555,
+   "KBA": "Tal Chhapar Wildlife Sanctuary",
+   "Latitude": 27.88,
+   "Longitude": 74.44
+ },
+ {
+   "id": 556,
+   "KBA": "Talaimalai Reserve Forest",
+   "Latitude": 11.63,
+   "Longitude": 77.02
+ },
+ {
+   "id": 557,
+   "KBA": "Talakaveri Wildlife Sanctuary",
+   "Latitude": 12.36,
+   "Longitude": 75.48
+ },
+ {
+   "id": 558,
+   "KBA": "Taley Valley Wildlife Sanctuary",
+   "Latitude": 27.57,
+   "Longitude": 94.06
+ },
+ {
+   "id": 559,
+   "KBA": "Taloda Reserve Forest",
+   "Latitude": 21.68,
+   "Longitude": 74.13
+ },
+ {
+   "id": 560,
+   "KBA": "Talra Wildlife Sanctuary",
+   "Latitude": 31.01,
+   "Longitude": 77.77
+ },
+ {
+   "id": 561,
+   "KBA": "Tamaranga-Dalani-Bhairab Complex",
+   "Latitude": 26.31,
+   "Longitude": 90.54
+ },
+ {
+   "id": 562,
+   "KBA": "Tansa Wildlife Sanctuary",
+   "Latitude": 19.6,
+   "Longitude": 73.28
+ },
+ {
+   "id": 563,
+   "KBA": "Teesta - Rangit Valley",
+   "Latitude": 27.04,
+   "Longitude": 88.58
+ },
+ {
+   "id": 564,
+   "KBA": "Telineelapuram",
+   "Latitude": 18.57,
+   "Longitude": 84.26
+ },
+ {
+   "id": 565,
+   "KBA": "Thaishola",
+   "Latitude": 11.21,
+   "Longitude": 76.63
+ },
+ {
+   "id": 566,
+   "KBA": "Thane Creek",
+   "Latitude": 19.11,
+   "Longitude": 72.96
+ },
+ {
+   "id": 567,
+   "KBA": "Thattekkad Wildlife Sanctuary",
+   "Latitude": 10.11,
+   "Longitude": 76.74
+ },
+ {
+   "id": 568,
+   "KBA": "The Chapories of Lohit Reserve",
+   "Latitude": 27.87,
+   "Longitude": 96.18
+ },
+ {
+   "id": 569,
+   "KBA": "Theni Forest Divisions",
+   "Latitude": 9.93,
+   "Longitude": 77.31
+ },
+ {
+   "id": 570,
+   "KBA": "Thippagondanahalli Reservoir",
+   "Latitude": 12.97,
+   "Longitude": 77.34
+ },
+ {
+   "id": 571,
+   "KBA": "Thol Lake Wildlife Sanctuary",
+   "Latitude": 23.14,
+   "Longitude": 72.41
+ },
+ {
+   "id": 572,
+   "KBA": "Thorangtlang Wildlife Sanctuary",
+   "Latitude": 23.27,
+   "Longitude": 92.54
+ },
+ {
+   "id": 573,
+   "KBA": "Thungri - Chaglang - Poshingla Maji, Basti and Liak area",
+   "Latitude": 27.53,
+   "Longitude": 92.4
+ },
+ {
+   "id": 574,
+   "KBA": "Tilaiya Dam",
+   "Latitude": 24.33,
+   "Longitude": 85.45
+ },
+ {
+   "id": 575,
+   "KBA": "Tillangchong, Camorta, Katchal, Nancowry and Trinkat",
+   "Latitude": 8.05,
+   "Longitude": 93.47
+ },
+ {
+   "id": 576,
+   "KBA": "Tirap - Burhidihing",
+   "Latitude": 27.36,
+   "Longitude": 95.91
+ },
+ {
+   "id": 577,
+   "KBA": "Tirthan Wildlife Sanctuary",
+   "Latitude": 31.61,
+   "Longitude": 77.54
+ },
+ {
+   "id": 578,
+   "KBA": "Tirunelveli Reserve Forest",
+   "Latitude": 9.18,
+   "Longitude": 77.3
+ },
+ {
+   "id": 579,
+   "KBA": "Tiruppadaimarudur Conservation Reserve",
+   "Latitude": 10.99,
+   "Longitude": 79.45
+ },
+ {
+   "id": 580,
+   "KBA": "Tiyi peak",
+   "Latitude": 27.04,
+   "Longitude": 88.58
+ },
+ {
+   "id": 581,
+   "KBA": "Tombattu Reserve Forest  - Shankaranarayan Reserve Forest",
+   "Latitude": 13.64,
+   "Longitude": 75
+ },
+ {
+   "id": 582,
+   "KBA": "Topchanchi Wildlife Sanctuary",
+   "Latitude": 23.93,
+   "Longitude": 86.19
+ },
+ {
+   "id": 583,
+   "KBA": "Toranmal Reserve Forest",
+   "Latitude": 21.86,
+   "Longitude": 74.45
+ },
+ {
+   "id": 584,
+   "KBA": "Trishna Wildlife Sanctuary",
+   "Latitude": 23.34,
+   "Longitude": 91.4
+ },
+ {
+   "id": 585,
+   "KBA": "Tso Kar Basin",
+   "Latitude": 33.31,
+   "Longitude": 78.01
+ },
+ {
+   "id": 586,
+   "KBA": "Tso Lhamo Plateau - Lashar - Sebu La - Yumesamdong Complex",
+   "Latitude": 27.98,
+   "Longitude": 88.7
+ },
+ {
+   "id": 587,
+   "KBA": "Tso Morari Lake and adjacent marshes",
+   "Latitude": 32.89,
+   "Longitude": 78.32
+ },
+ {
+   "id": 588,
+   "KBA": "Tungabhadra Reservoir",
+   "Latitude": 15.19,
+   "Longitude": 76.18
+ },
+ {
+   "id": 589,
+   "KBA": "Udaipur Lakes Complex",
+   "Latitude": 24.58,
+   "Longitude": 73.67
+ },
+ {
+   "id": 590,
+   "KBA": "Udanti and Sitanadi Wildlife Sanctuaries",
+   "Latitude": 20.15,
+   "Longitude": 82.08
+ },
+ {
+   "id": 591,
+   "KBA": "Udhuwa Lake Bird Sanctuary",
+   "Latitude": 24.99,
+   "Longitude": 87.82
+ },
+ {
+   "id": 592,
+   "KBA": "Ujjani Reservoir",
+   "Latitude": 18.22,
+   "Longitude": 75
+ },
+ {
+   "id": 593,
+   "KBA": "Uppalapadu",
+   "Latitude": 16.29,
+   "Longitude": 80.51
+ },
+ {
+   "id": 594,
+   "KBA": "Upper Dihing (East) Complex",
+   "Latitude": 27.44,
+   "Longitude": 95.69
+ },
+ {
+   "id": 595,
+   "KBA": "Upper Dihing (West) Complex",
+   "Latitude": 27.28,
+   "Longitude": 95.49
+ },
+ {
+   "id": 596,
+   "KBA": "Upper Pindar Catchment in East Almora Forest Division",
+   "Latitude": 30.19,
+   "Longitude": 79.95
+ },
+ {
+   "id": 597,
+   "KBA": "Upper Renging",
+   "Latitude": 28.12,
+   "Longitude": 95.28
+ },
+ {
+   "id": 598,
+   "KBA": "Upper Rottung",
+   "Latitude": 28.14,
+   "Longitude": 95.16
+ },
+ {
+   "id": 599,
+   "KBA": "Upper Shillong",
+   "Latitude": 25.55,
+   "Longitude": 91.87
+ },
+ {
+   "id": 600,
+   "KBA": "Urpod Beel",
+   "Latitude": 26.09,
+   "Longitude": 90.59
+ },
+ {
+   "id": 601,
+   "KBA": "Vaduvoor Lake Bird Sanctuary",
+   "Latitude": 10.7,
+   "Longitude": 79.32
+ },
+ {
+   "id": 602,
+   "KBA": "Valley of Flowers National Park",
+   "Latitude": 30.73,
+   "Longitude": 79.64
+ },
+ {
+   "id": 603,
+   "KBA": "Valmiki Tiger Reserve and Saraiyaman Lake",
+   "Latitude": 27.35,
+   "Longitude": 84.18
+ },
+ {
+   "id": 604,
+   "KBA": "Vandivoorand Kunnathur Tanks (Madurai)",
+   "Latitude": 9.88,
+   "Longitude": 78.24
+ },
+ {
+   "id": 605,
+   "KBA": "Varahi SF - HN",
+   "Latitude": 13.66,
+   "Longitude": 75.03
+ },
+ {
+   "id": 606,
+   "KBA": "Vazhachal Forest Division",
+   "Latitude": 10.32,
+   "Longitude": 76.66
+ },
+ {
+   "id": 607,
+   "KBA": "Vedanthangal and Karikili Bird Sanctuary",
+   "Latitude": 12.56,
+   "Longitude": 79.87
+ },
+ {
+   "id": 608,
+   "KBA": "Veeranam Lake",
+   "Latitude": 11.33,
+   "Longitude": 79.53
+ },
+ {
+   "id": 609,
+   "KBA": "Velavadar National Park",
+   "Latitude": 22.02,
+   "Longitude": 72.04
+ },
+ {
+   "id": 610,
+   "KBA": "Vembanad Lake",
+   "Latitude": 9.52,
+   "Longitude": 76.43
+ },
+ {
+   "id": 611,
+   "KBA": "Vettangudi Bird Sanctuary",
+   "Latitude": 10.09,
+   "Longitude": 78.54
+ },
+ {
+   "id": 612,
+   "KBA": "Vijay Sagar Wildlife Sanctuary",
+   "Latitude": 25.3,
+   "Longitude": 79.91
+ },
+ {
+   "id": 613,
+   "KBA": "Vikramshila Gangetic Dolphin Sanctuary",
+   "Latitude": 25.3,
+   "Longitude": 86.93
+ },
+ {
+   "id": 614,
+   "KBA": "Walong",
+   "Latitude": 28.2,
+   "Longitude": 96.9
+ },
+ {
+   "id": 615,
+   "KBA": "Watrap Periakulam and Virakasamuthrakulam",
+   "Latitude": 9.63,
+   "Longitude": 77.58
+ },
+ {
+   "id": 616,
+   "KBA": "Wellington Reservoir",
+   "Latitude": 11.41,
+   "Longitude": 79.09
+ },
+ {
+   "id": 617,
+   "KBA": "Wetlands of Kheda",
+   "Latitude": 22.81,
+   "Longitude": 72.86
+ },
+ {
+   "id": 618,
+   "KBA": "Wetlands of Yamuna River",
+   "Latitude": 29.26,
+   "Longitude": 77.15
+ },
+ {
+   "id": 619,
+   "KBA": "Wild Ass Wildlife Sanctuary",
+   "Latitude": 23.38,
+   "Longitude": 71.21
+ },
+ {
+   "id": 620,
+   "KBA": "Wular Lake and associated marshes",
+   "Latitude": 34.35,
+   "Longitude": 74.57
+ },
+ {
+   "id": 621,
+   "KBA": "Wynaad Wildlife Sanctuary",
+   "Latitude": 11.75,
+   "Longitude": 76.27
+ },
+ {
+   "id": 622,
+   "KBA": "Yangoupokpi - Lokchao Wildlife Sanctuary",
+   "Latitude": 24.33,
+   "Longitude": 94.3
+ },
+ {
+   "id": 623,
+   "KBA": "Yardi - Rabe Supse Wildlife Sanctuary",
+   "Latitude": 28.26,
+   "Longitude": 94.48
+ },
+ {
+   "id": 624,
+   "KBA": "Yeshwantsagar Reservoir",
+   "Latitude": 22.8,
+   "Longitude": 75.7
+ },
+ {
+   "id": 625,
+   "KBA": "Yumthang - Shingba Rhododendron Wildlife Sanctuary",
+   "Latitude": 27.77,
+   "Longitude": 88.72
+ },
+ {
+   "id": 626,
+   "KBA": "Zeilad Lake Sanctuary",
+   "Latitude": 24.91,
+   "Longitude": 93.38
+ },
+ {
+   "id": 627,
+   "KBA": "Zemithang - Nelya",
+   "Latitude": 27.76,
+   "Longitude": 91.71
+ }
+]

@@ -1,0 +1,12 @@
+.leaflet-container{
+    height: 80vh;
+    width: 50vw;
+    /* margin-right: 2rem; */
+    border: 2px solid rgb(245, 242, 242);
+    border-radius: 10px;
+    background-color: #e2e0e061;
+}
+.mapspi{
+    width: 50vw;
+    height: 760px;
+}

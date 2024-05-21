@@ -1,0 +1,36 @@
+.flex{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    font-family: 'Montserrat', sans-serif;
+}
+.left{
+    content: "";
+    position: absolute;
+    background: url('../images/loginpage.jpeg') no-repeat center center/cover;
+    height: 870px;
+    width: 700px;
+}
+
+.create{
+    margin-top: 130px;
+    margin-left: 850px;
+    font-family: 'Montserrat', sans-serif;
+}
+.entry{
+    background-color: rgb(247, 241, 234);
+    border-radius: 6px;
+    border: 1px solid rgb(142, 142, 142);
+    padding: 13px 78px 13px 7px;
+    margin-top: 20px;
+}
+.logregbtn{
+    color:'white';
+    font-weight:'200';
+    font-family:'Montserrat', sans-serif;
+    padding:'13px 38px 13px 7px';
+     width:'250px';
+     border:'none';
+     border-radius:'4px';
+      background-color:'#d1410c'
+}
+

@@ -1,0 +1,86 @@
+/* About Us Container */
+.about-us-container {
+    background-color: #f3f4f6;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 68vw;
+    margin-top: 3rem;
+  }
+  
+  /* About Us Content */
+  .about-us-content {
+    max-width: 800px;
+    padding: 20px;
+  }
+  
+  /* About Us Title */
+  .about-us-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  /* Card Container */
+  .card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 40px;
+  }
+  
+  /* Card */
+  .card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Card Content */
+  .card-content {
+    padding: 20px;
+  }
+  
+  /* Card Title */
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Card Description */
+  .card-description {
+    color: #666666;
+  }
+  
+  /* Mission Container */
+  .mission-container {
+    margin-top: 40px;
+  }
+  
+  /* Mission Title */
+  .mission-title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Mission Description */
+  .mission-description {
+    color: #666666;
+    text-align: center;
+  }
+
+  /* Card Image */
+.card-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  
