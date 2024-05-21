@@ -37,7 +37,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(cors(
     {
-        origin:["https://kba-iiti.vercel.app/"],
+        origin:["https://kba-iiti.vercel.app"],
         methods:["POST","GET"],
         credentials:true
     }
