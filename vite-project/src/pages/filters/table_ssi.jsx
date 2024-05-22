@@ -24,14 +24,14 @@ const Tabble = ({ item, index1 }) => {
     const handleSubmitButton = async (e) => {
         e.preventDefault();
         console.log(editData);
-        const result = await axios.put("https://kba-iiti-api.vercel.app/index/edit_ssi", {id:item._id,data:editData});
+        const result = await axios.put("https://kba-iiti-1.onrender.com/index/edit_ssi", {id:item._id,data:editData});
         setEditEnabled(!editEnabled);
          console.log(result);
         //  navigate.push('/user/profile');
     };
     const handleDelete = async (e)=>{
         e.preventDefault();
-        const result = await axios.put("https://kba-iiti-api.vercel.app/index/delete_ssi", {id:item._id});
+        const result = await axios.put("https://kba-iiti-1.onrender.com/index/delete_ssi", {id:item._id});
 
     }
     return (
