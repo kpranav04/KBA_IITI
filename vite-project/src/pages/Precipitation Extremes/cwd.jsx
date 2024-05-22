@@ -48,7 +48,7 @@ function CWD_PPT_Extreme() {
   };
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const res = await axios.post('https://kba-iiti-api.vercel.app/index/cwd_post', { location: selectedOption.value,  year: cred.year, index: data.index });
+    const res = await axios.post('https://kba-iiti-1.onrender.com/index/cwd_post', { location: selectedOption.value,  year: cred.year, index: data.index });
     console.log(res);
     toast.success("Data Added Successfully");
     setTimeout(() => {
