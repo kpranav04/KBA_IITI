@@ -37,7 +37,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(cors(
     {
-        origin:"https://kba-iiti.vercel.app",
+        origin:"https://kba-iiti-cb1w.vercel.app",
         // // Access-Control-Allow-Origin:"https://kba-iiti.vercel.app",
         // methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
         // credentials:true
