@@ -193,8 +193,8 @@ function SPI() {
                     >
                       <option value="">Select a year</option>
                       {Array.from({ length: 81 }, (_, i) => (
-                        <option key={i} value={i + 1950}>
-                          {i + 1950}
+                        <option key={i} value={i + 1951}>
+                          {i + 1951}
                         </option>
                       ))}
                     </select>
