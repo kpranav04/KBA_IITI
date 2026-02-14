@@ -35,7 +35,8 @@ mongoose.connection.on("disconnected", () => {
 //MIDDLEWARES
 app.use(express.json());
 app.use(cookieParser());
-/*app.use(cors(
+/*
+app.use(cors(
     {
         origin:"https://kba-iiti-cb1w.vercel.app",
         // // Access-Control-Allow-Origin:"https://kba-iiti.vercel.app",
@@ -47,10 +48,12 @@ app.use(cookieParser());
 ));
 */
 
+
 app.use(cors({
   origin: "https://kba-iiti-cb1w.vercel.app",
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-  credentials: true
+  credentials: true,
+     allowedHeaders: 'Content-Type,Authorization'
 }));
 
 app.options("*", cors()); // handle preflight
